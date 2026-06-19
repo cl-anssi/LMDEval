@@ -1,0 +1,1360 @@
+id,description,label
+fa54c298-dbc2-41ce-aa34-0351bf5a71d0,Day 1 - SysClient0201 -> 142.20.56.204 (SMB),Lateral movement
+de2f9804-acdc-48a7-b52a-bddb03c8f82f,Day 1 - SysClient0201 -> 142.20.56.204 (SMB),Lateral movement
+ced61d66-e204-4107-9cb0-a9974cd376cf,Day 1 - SysClient0201 -> 142.20.56.204 (SMB),Lateral movement
+f809631e-86d3-4dad-877a-e998c9d14a93,Day 1 - SysClient0201 -> 142.20.56.204 (SMB),Lateral movement
+965a2d0f-3e57-481e-a856-4ed5171ba183,Day 1 - SysClient0201 -> 142.20.56.204 (SMB),Lateral movement
+f41ee1ee-60a7-44c4-8fec-d98cf853b6cb,Day 1 - SysClient0201 -> 142.20.56.204 (SMB),Lateral movement
+2e454806-cac2-40eb-899f-97a9ca5c6f7a,Day 1 - Ping sweep from SysClient0201,Other
+16de7238-976a-4363-b0bb-0a8013ff67ee,Day 1 - Ping sweep from SysClient0201,Other
+a0530d4e-cd48-4cd6-ab05-d2b7feebb062,Day 1 - Ping sweep from SysClient0201,Other
+1a510b3d-a7c2-4485-8304-d35cc761c26e,Day 1 - Ping sweep from SysClient0201,Other
+39f79f3c-0a89-4219-ba86-a9fd488dc44b,Day 1 - Ping sweep from SysClient0201,Other
+7223d12e-3d88-4066-8da7-3dd55e305f66,Day 1 - Ping sweep from SysClient0201,Other
+bfa6cbcf-b022-4969-ae4f-929720313523,Day 1 - Ping sweep from SysClient0201,Other
+9cc2f89c-1b9a-4d98-a06c-672ead8390ca,Day 1 - Ping sweep from SysClient0201,Other
+bbf0ff95-2ed7-43ea-91a0-5cbee77a270f,Day 1 - Ping sweep from SysClient0201,Other
+cbbd21ce-d9f4-453a-9b6a-d08840527836,Day 1 - Ping sweep from SysClient0201,Other
+db18e97e-27d8-4bb9-b2c9-67135554f2bc,Day 1 - Ping sweep from SysClient0201,Other
+aff4f740-5f43-4085-a6b0-284b7747fc30,Day 1 - Ping sweep from SysClient0201,Other
+684c7b47-3641-475e-b3f9-a0ccb3c869c3,Day 1 - Ping sweep from SysClient0201,Other
+f0d396a6-c18e-4b99-b94c-ff51a63c37eb,Day 1 - Ping sweep from SysClient0201,Other
+2cbc914f-2691-4a13-aa07-0c237bf701c6,Day 1 - Ping sweep from SysClient0201,Other
+c1d9a490-812c-4845-b7e8-1b54257872cd,Day 1 - Ping sweep from SysClient0201,Other
+72b22321-b94b-43ef-8f03-a308a1eb5b05,Day 1 - Ping sweep from SysClient0201,Other
+3449f672-f598-4378-83dd-3d9a18b6cba1,Day 1 - Ping sweep from SysClient0201,Other
+952d3ae1-1a77-4ccc-a76a-bdf182ed1466,Day 1 - Ping sweep from SysClient0201,Other
+d1005734-450f-4cd4-9c36-1a5c3760802c,Day 1 - Ping sweep from SysClient0201,Other
+0cf71a95-955b-481f-9da5-c19a526ad234,Day 1 - Ping sweep from SysClient0201,Other
+9dcb3cf7-796c-4c9f-8cf6-613a1b888d5c,Day 1 - Ping sweep from SysClient0201,Other
+1637aeca-4360-4395-b4e1-45078821219d,Day 1 - Ping sweep from SysClient0201,Other
+df49ec72-4d06-4da3-898d-bcd96eb27823,Day 1 - Ping sweep from SysClient0201,Other
+4b4b2369-d934-4455-a84d-3996bfd1194f,Day 1 - Ping sweep from SysClient0201,Other
+892157a5-fc12-46f6-901f-f138076907b3,Day 1 - Ping sweep from SysClient0201,Other
+5a1bf386-2a6c-47ad-b23d-4de2884b8dd1,Day 1 - Ping sweep from SysClient0201,Other
+b46983e6-01c0-443e-8453-8e066f2947df,Day 1 - Ping sweep from SysClient0201,Other
+0ebcbf7a-8e41-497a-8d7c-b287ce28f358,Day 1 - Ping sweep from SysClient0201,Other
+c17d367c-d8f5-43de-bc13-7a14fb2e3750,Day 1 - Ping sweep from SysClient0201,Other
+fff7ab10-a904-44d2-a598-179b35f45842,Day 1 - Ping sweep from SysClient0201,Other
+9b52ee0d-8b03-4b6e-9c04-09276a36a1d5,Day 1 - Ping sweep from SysClient0201,Other
+2001eab0-94a4-48e2-ab1d-0ecfe6b3cd7e,Day 1 - Ping sweep from SysClient0201,Other
+724b50ac-15ae-49fc-bfeb-f001e3141b37,Day 1 - Ping sweep from SysClient0201,Other
+bd9f88b9-ad0c-4475-8673-287fb07c5a10,Day 1 - Ping sweep from SysClient0201,Other
+0bc73c84-4c24-4162-b864-8396483a4ed5,Day 1 - Ping sweep from SysClient0201,Other
+399925bd-8236-433d-bc02-432f5cb70f60,Day 1 - Ping sweep from SysClient0201,Other
+e42831bb-688c-4055-9938-34ebd0f448d7,Day 1 - Ping sweep from SysClient0201,Other
+18aada57-c6ce-4aa6-a038-637e1a0c3b13,Day 1 - Ping sweep from SysClient0201,Other
+88139544-f046-4e38-8ac5-8ac218146ba4,Day 1 - Ping sweep from SysClient0201,Other
+e918b60f-abb9-44b0-9148-142247498d74,Day 1 - Ping sweep from SysClient0201,Other
+d02f8634-4531-4bef-8b9a-ad72ac8182bd,Day 1 - Ping sweep from SysClient0201,Other
+7abb7540-bb9b-4de0-a80f-9ea35041003b,Day 1 - Ping sweep from SysClient0201,Other
+9dc5f9bb-2d23-43ab-a66c-4e3d46c5e39c,Day 1 - Ping sweep from SysClient0201,Other
+87241354-19ff-45a7-9e5a-78dabb58c721,Day 1 - Ping sweep from SysClient0201,Other
+acdeaa2f-7387-40f4-bfd1-81b9b8bdebdc,Day 1 - Ping sweep from SysClient0201,Other
+9801cc12-f57a-48a6-9602-742fa031a055,Day 1 - Ping sweep from SysClient0201,Other
+0badb4ac-3c16-4374-94f2-007cccccbf3b,Day 1 - Ping sweep from SysClient0201,Other
+b3abcb4e-9290-4caa-80c0-cc4320c48e05,Day 1 - Ping sweep from SysClient0201,Other
+deaea470-005c-4f71-9857-667cf0b4e1aa,Day 1 - Ping sweep from SysClient0201,Other
+fa8fd0eb-3e4a-47b6-8dc0-7880a6611f55,Day 1 - Ping sweep from SysClient0201,Other
+4e765a77-3ee7-4861-90bf-932eb4e7a122,Day 1 - Ping sweep from SysClient0201,Other
+f1b41b47-e254-41aa-b3d6-2eca1ab6557f,Day 1 - Ping sweep from SysClient0201,Other
+3c767652-9aec-46b5-8153-3a2a7da92df0,Day 1 - Ping sweep from SysClient0201,Other
+da7e4a5b-aeb3-4af8-b321-2a31bd7f269a,Day 1 - Ping sweep from SysClient0201,Other
+7955aa78-f725-470b-82cc-5ea7f8c9e10c,Day 1 - Ping sweep from SysClient0201,Other
+659e8720-461f-4c09-95c1-a41d3ac8fa94,Day 1 - Ping sweep from SysClient0201,Other
+3eab311b-76e7-4c62-bc87-51fcd1d423f3,Day 1 - Ping sweep from SysClient0201,Other
+6ace6940-63aa-4bdf-9d22-df5ba084b7af,Day 1 - Ping sweep from SysClient0201,Other
+51cc05dc-5b30-40cd-ba33-5fb4dbe3f8f6,Day 1 - Ping sweep from SysClient0201,Other
+dcc04786-e03a-494b-874b-4cc5ddcc5d50,Day 1 - Ping sweep from SysClient0201,Other
+c5d91cf7-326e-4b37-9734-985825ebbe58,Day 1 - Ping sweep from SysClient0201,Other
+3df25bc6-99c6-4710-a84f-0387ce1ca5d6,Day 1 - Ping sweep from SysClient0201,Other
+f69719f0-9c13-4ece-95de-115b1e8e9c7d,Day 1 - Ping sweep from SysClient0201,Other
+99094004-4c25-417d-b6d4-be7b8de621f4,Day 1 - Ping sweep from SysClient0201,Other
+f5a06b62-a982-4727-8114-3ffe5471c14a,Day 1 - Ping sweep from SysClient0201,Other
+56610a4e-ccd3-4b74-b349-6fe960f66214,Day 1 - Ping sweep from SysClient0201,Other
+659c1a4b-398f-4cbc-920d-ccdd863e77f8,Day 1 - Ping sweep from SysClient0201,Other
+c5cb280e-cfb8-4a8e-8082-a52b2d3c6aac,Day 1 - Ping sweep from SysClient0201,Other
+6efbcd8d-cd75-40e7-a804-22249b8b5e48,Day 1 - Ping sweep from SysClient0201,Other
+e6c409ea-68af-4092-80e2-2144eb85d3f9,Day 1 - Ping sweep from SysClient0201,Other
+482ff67d-2dea-49c4-8816-392b7890c90c,Day 1 - Ping sweep from SysClient0201,Other
+e2946e8d-a1ec-4106-a480-b86077347302,Day 1 - Ping sweep from SysClient0201,Other
+6050f621-bd0f-4559-bddf-8ec54a5a9b58,Day 1 - Ping sweep from SysClient0201,Other
+cd7b4999-8119-4913-b7fd-33a3de5e006e,Day 1 - Ping sweep from SysClient0201,Other
+f6d190af-6a4f-4ff6-b010-b92fff031c71,Day 1 - Ping sweep from SysClient0201,Other
+d79b1dd6-87ea-437c-b50d-db408e77897c,Day 1 - Ping sweep from SysClient0201,Other
+e49269e0-0424-4c9f-a63b-a1af45c78d2e,Day 1 - Ping sweep from SysClient0201,Other
+7eac8fb6-2f30-4546-9265-a7549a581b4f,Day 1 - Ping sweep from SysClient0201,Other
+6d2c7933-360a-47b9-986f-c7a979a48d28,Day 1 - Ping sweep from SysClient0201,Other
+07a13ff8-6918-4ad5-b530-d52d2bdcc992,Day 1 - Ping sweep from SysClient0201,Other
+329e9cb8-ffcd-4ab7-99bf-212d62e47ce7,Day 1 - Ping sweep from SysClient0201,Other
+8a7bdf8e-6573-460e-8e18-266cd02f22c7,Day 1 - Ping sweep from SysClient0201,Other
+91ff3cea-f078-47cd-95b2-48109c9bab2b,Day 1 - Ping sweep from SysClient0201,Other
+fdfaf67c-b0bb-4d9b-92ec-08e41417ead7,Day 1 - Ping sweep from SysClient0201,Other
+7a1c6c24-8025-4442-95b5-7f8ddc6401b2,Day 1 - Ping sweep from SysClient0201,Other
+3fd6972e-7266-43d9-a291-95be00cabfe6,Day 1 - Ping sweep from SysClient0201,Other
+9111d21c-bd16-44cf-a05b-680e846735f8,Day 1 - Ping sweep from SysClient0201,Other
+7349eadd-dc30-4c66-8c59-486d171c7268,Day 1 - Ping sweep from SysClient0201,Other
+e17fe28b-dffd-43cf-8246-935812e594e0,Day 1 - Ping sweep from SysClient0201,Other
+b5d8909e-923b-4063-98ae-77efdf3c76c0,Day 1 - Ping sweep from SysClient0201,Other
+f44b9df9-f36a-4586-87c2-645fb93772ad,Day 1 - Ping sweep from SysClient0201,Other
+1a4be3fc-5ca7-4d08-ab19-7efa6baedd66,Day 1 - Ping sweep from SysClient0201,Other
+644e1d26-916f-4bfd-a346-eef66dcf3b89,Day 1 - Ping sweep from SysClient0201,Other
+50c6293f-e166-481c-8e3f-58d502f3a56b,Day 1 - Ping sweep from SysClient0201,Other
+fb4f0a50-6454-4804-a96c-63a46aa0e4db,Day 1 - Ping sweep from SysClient0201,Other
+ee3a23b5-b2df-4c1c-82c1-16f2a9ca4335,Day 1 - Ping sweep from SysClient0201,Other
+ac13aab7-332d-42c6-afd6-70d547415ffa,Day 1 - Ping sweep from SysClient0201,Other
+9a100f0f-3225-44ed-93c6-20bcc24f39d0,Day 1 - Ping sweep from SysClient0201,Other
+b96e8431-9bb6-48ba-b13b-ed032c090995,Day 1 - Ping sweep from SysClient0201,Other
+c9ae5cf9-c937-41cc-9830-5f56874ab6b6,Day 1 - Ping sweep from SysClient0201,Other
+c153d077-1f9c-4bb2-9bc7-7c48cd190faa,Day 1 - Ping sweep from SysClient0201,Other
+65738d73-4cb1-4103-9cd0-59bf7e254951,Day 1 - Ping sweep from SysClient0201,Other
+0f9b0e6f-9b16-4220-b727-fd69febd1616,Day 1 - Ping sweep from SysClient0201,Other
+e1aea248-44ee-4a11-ab8e-362998f9797b,Day 1 - Ping sweep from SysClient0201,Other
+926c5193-80d1-4b0f-a875-d49e12f4b67f,Day 1 - Ping sweep from SysClient0201,Other
+617c6194-11b4-4969-a97f-49edcc264500,Day 1 - Ping sweep from SysClient0201,Other
+3022151f-ddd8-4adf-ac79-96a8f59d8425,Day 1 - Ping sweep from SysClient0201,Other
+df0c18c0-4149-4387-b9de-cff28c994b45,Day 1 - Ping sweep from SysClient0201,Other
+cb10af9f-cdc4-4e58-8b7f-de3c7c9cab92,Day 1 - Ping sweep from SysClient0201,Other
+4246d748-7c01-4d31-a64b-452235d5d8c2,Day 1 - Ping sweep from SysClient0201,Other
+2b8b622e-2bba-413e-9894-4704ae70aa22,Day 1 - Ping sweep from SysClient0201,Other
+921d753e-f0c3-4c01-ae85-0a51fca3023e,Day 1 - Ping sweep from SysClient0201,Other
+cc68493c-7bd8-4db9-8143-a57a3243a574,Day 1 - Ping sweep from SysClient0201,Other
+b859ccf0-331c-429a-8fc3-6f6df2946b7a,Day 1 - Ping sweep from SysClient0201,Other
+87090bb5-ded1-4ed2-bae9-6c7ac61f6c7b,Day 1 - Ping sweep from SysClient0201,Other
+ac48cd64-ea9b-4e91-9bea-39ecc0c1d185,Day 1 - Ping sweep from SysClient0201,Other
+32d8502c-671d-454f-80ff-956a4e10e803,Day 1 - Ping sweep from SysClient0201,Other
+1eeb4e95-276a-4f1c-99f5-65d3222ce162,Day 1 - Ping sweep from SysClient0201,Other
+0ab61071-ad9b-47ac-b523-d81fd46207bc,Day 1 - Ping sweep from SysClient0201,Other
+7f41f480-f1f0-407d-8eb8-cecb337bbc6c,Day 1 - Ping sweep from SysClient0201,Other
+cfefc868-4696-49bd-abd3-f8890841695c,Day 1 - Ping sweep from SysClient0201,Other
+c89d0571-f7eb-459e-827b-3ece0fe1e0ae,Day 1 - Ping sweep from SysClient0201,Other
+fcb9b0dc-d177-4848-a2cb-8587e9dfdffb,Day 1 - Ping sweep from SysClient0201,Other
+3240e2de-9d6a-42a6-a305-64c7aa546cef,Day 1 - Ping sweep from SysClient0201,Other
+68e83178-dd97-4f29-9a08-c9d214600e47,Day 1 - Ping sweep from SysClient0201,Other
+18f8d323-059b-49b7-aba0-9d081dfe6b24,Day 1 - Ping sweep from SysClient0201,Other
+8ccfd2e7-c0df-4acb-bdd9-dbbb79b46fc3,Day 1 - Ping sweep from SysClient0201,Other
+dd3ca308-d5c7-4339-b196-dcbb601d0a71,Day 1 - Ping sweep from SysClient0201,Other
+481586c2-335c-4781-93f0-6003013eba7e,Day 1 - Ping sweep from SysClient0201,Other
+9f6388f4-96cd-475d-a5c6-d17dab43c083,Day 1 - Ping sweep from SysClient0201,Other
+f53a4de7-2dec-4938-b495-942dd38cb9e9,Day 1 - Ping sweep from SysClient0201,Other
+48142d74-ca7c-4c6f-8bbf-cff0d333fbf0,Day 1 - Ping sweep from SysClient0201,Other
+d310fabe-4234-4f64-a08d-3fd0cf8a5951,Day 1 - Ping sweep from SysClient0201,Other
+4acf06e0-5557-4174-bd9e-2a6032811b73,Day 1 - Ping sweep from SysClient0201,Other
+c708fbff-bdc9-4acc-a1a2-cc6138235597,Day 1 - Ping sweep from SysClient0201,Other
+0337bf81-f40b-4a14-854f-6350d9d0ca3b,Day 1 - Ping sweep from SysClient0201,Other
+7272dfa4-3753-47f3-ae1f-7372d5a1a8ae,Day 1 - Ping sweep from SysClient0201,Other
+8e082cee-c5ec-4646-b6cd-217192e6d2fc,Day 1 - Ping sweep from SysClient0201,Other
+2833b619-8e1c-483e-a83e-6a4ca80f4843,Day 1 - Ping sweep from SysClient0201,Other
+8c029f4a-2f3a-4968-8dcd-8dcc15ffdc7b,Day 1 - Ping sweep from SysClient0201,Other
+57abb721-20de-444c-b88e-88dd52522a74,Day 1 - Ping sweep from SysClient0201,Other
+61978f2d-5f4f-4f88-b8b2-227ac807b8ee,Day 1 - Ping sweep from SysClient0201,Other
+b4142636-b073-41f3-a9a7-0cba5078f0b5,Day 1 - Ping sweep from SysClient0201,Other
+af3c3644-55e1-4e13-a8fe-47510a80e240,Day 1 - Ping sweep from SysClient0201,Other
+7db67010-0e02-4047-a527-c10be8344952,Day 1 - Ping sweep from SysClient0201,Other
+b1712e6e-4f10-44ba-b720-93b9bf7e9e16,Day 1 - Ping sweep from SysClient0201,Other
+5b6abc23-af10-440f-affd-ca68d4f4aebf,Day 1 - Ping sweep from SysClient0201,Other
+dcc4c186-c41c-4b03-898a-8739df75f604,Day 1 - Ping sweep from SysClient0201,Other
+7128989d-2a04-4c40-9784-1575335132ea,Day 1 - Ping sweep from SysClient0201,Other
+6cd2ff35-708e-4c27-9253-df5bb9b20673,Day 1 - Ping sweep from SysClient0201,Other
+1989d99a-514d-4d60-ade9-9ff718d93c61,Day 1 - Ping sweep from SysClient0201,Other
+1972212c-d776-48e5-8db1-eee11d1bdc3c,Day 1 - Ping sweep from SysClient0201,Other
+458fb837-feed-4254-b5b0-37acf3b13c23,Day 1 - Ping sweep from SysClient0201,Other
+d4c8a870-0451-4713-b642-61f46e1cd874,Day 1 - Ping sweep from SysClient0201,Other
+a5304f76-7ad6-41b5-ac44-f4035d555e19,Day 1 - Ping sweep from SysClient0201,Other
+e032743e-2abe-4c94-b867-ad19e713c826,Day 1 - Ping sweep from SysClient0201,Other
+b8ddea45-6797-4709-b8f2-ea39d2041421,Day 1 - Ping sweep from SysClient0201,Other
+5a3fb874-2d77-48b2-b7f8-b0e01d365b71,Day 1 - Ping sweep from SysClient0201,Other
+2050036d-a0c8-4d26-9ba6-ec5d88d24af7,Day 1 - Ping sweep from SysClient0201,Other
+f786a889-5ae4-418b-8bed-366caeec1914,Day 1 - Ping sweep from SysClient0201,Other
+f1f5d4c2-19e6-41c0-8718-f365f259ddc1,Day 1 - Ping sweep from SysClient0201,Other
+ad76647f-f99d-4b70-a198-67cf668f4557,Day 1 - Ping sweep from SysClient0201,Other
+c25584c6-25de-4802-9338-e6e34d6c3bb0,Day 1 - Ping sweep from SysClient0201,Other
+b4c9081b-b0d5-44e4-8e8c-6517d08a0af1,Day 1 - Ping sweep from SysClient0201,Other
+6c2d807f-5016-49d7-9bd4-a98cdb8bbf02,Day 1 - Ping sweep from SysClient0201,Other
+c698751c-e08a-4ad1-9da9-86595e173279,Day 1 - Ping sweep from SysClient0201,Other
+90bfc17a-cdab-45ce-8041-9f6e1fcc5d13,Day 1 - Ping sweep from SysClient0201,Other
+9be3c369-5409-442a-ac30-4aa646f911b8,Day 1 - Ping sweep from SysClient0201,Other
+6d9b8dbc-f793-4de3-8c6a-ec19c410a2ba,Day 1 - Ping sweep from SysClient0201,Other
+cb150019-b7fa-4307-9b82-4b8ef4a6b699,Day 1 - Ping sweep from SysClient0201,Other
+d3d45009-ba5f-4a9f-b878-31a56e2a088f,Day 1 - Ping sweep from SysClient0201,Other
+2e4b53d5-4076-4d16-9e4c-9ca02055e256,Day 1 - Ping sweep from SysClient0201,Other
+bad57f73-a9c5-466c-afa5-616a2e001882,Day 1 - Ping sweep from SysClient0201,Other
+5247799b-28e5-4ea4-8715-985e44c72c7c,Day 1 - Ping sweep from SysClient0201,Other
+aabf0d14-6fdf-4a8b-bf73-61712b284206,Day 1 - Ping sweep from SysClient0201,Other
+ed3f0d39-ed28-4284-b34b-2bb38229f17a,Day 1 - Ping sweep from SysClient0201,Other
+4f92b8b2-43fd-4407-a8f1-c6cb9622eb8e,Day 1 - Ping sweep from SysClient0201,Other
+e545e374-6604-4154-9248-79af23006a58,Day 1 - Ping sweep from SysClient0201,Other
+c7b004c3-befa-4eb1-8e7c-56627f998c3b,Day 1 - Ping sweep from SysClient0201,Other
+deee12d4-ca43-4c14-a139-6ac9e42c4fde,Day 1 - Ping sweep from SysClient0201,Other
+7108522c-5002-4739-a59f-7078f664633e,Day 1 - Ping sweep from SysClient0201,Other
+40816e96-d956-42c7-97fa-d114d0aa24a6,Day 1 - Ping sweep from SysClient0201,Other
+2e7edadb-3de9-4134-b967-e98d1c093807,Day 1 - Ping sweep from SysClient0201,Other
+84dc1681-a3f1-4a48-8a1a-c0f136b95abd,Day 1 - Ping sweep from SysClient0201,Other
+cfa31cfd-2f41-4543-a4ad-2dde3942ec5f,Day 1 - Ping sweep from SysClient0201,Other
+7b389162-9357-49e4-89e1-f927135a0631,Day 1 - Ping sweep from SysClient0201,Other
+74ed1fe9-d1e6-49a1-8626-73227636189e,Day 1 - Ping sweep from SysClient0201,Other
+211f11ac-2f01-4ead-92f1-2e1f3fadf544,Day 1 - Ping sweep from SysClient0201,Other
+3372e32b-0a9d-4fa2-a738-c8eb664c638c,Day 1 - Ping sweep from SysClient0201,Other
+315a353d-be5c-49a3-abf8-d42fc40c09b8,Day 1 - Ping sweep from SysClient0201,Other
+a8443a98-a239-4a70-8034-85d7da5b694d,Day 1 - Ping sweep from SysClient0201,Other
+be0d1cc7-57da-4daf-b86a-dccf9a8f1a08,Day 1 - Ping sweep from SysClient0201,Other
+ddec8d07-b981-41ad-b394-cdbb8e83ab51,Day 1 - Ping sweep from SysClient0201,Other
+90b73187-6cc4-48ab-9224-5f7e1379eba0,Day 1 - Ping sweep from SysClient0201,Other
+5c9f344a-3185-4fda-9888-73c061d57f1e,Day 1 - Ping sweep from SysClient0201,Other
+7b06f5d0-a525-4884-a6f1-553f4f501a01,Day 1 - Ping sweep from SysClient0201,Other
+929a864e-2d46-4d30-a6fe-c3610bca80ec,Day 1 - Ping sweep from SysClient0201,Other
+b76bd24d-7799-4c29-8bf1-88b070ef748f,Day 1 - Ping sweep from SysClient0201,Other
+52d82af6-8dcb-40e0-8528-8159af32e832,Day 1 - Ping sweep from SysClient0201,Other
+d96c8167-755a-4551-9f65-b44837ebc1bb,Day 1 - Ping sweep from SysClient0201,Other
+14d6e433-c4f3-4ba2-9c73-ca52745ba969,Day 1 - Ping sweep from SysClient0201,Other
+775bd8c2-3c23-46cd-b915-b65212a79c5c,Day 1 - Ping sweep from SysClient0201,Other
+31d579e9-f7b9-488d-8c85-a60eaf9a26ae,Day 1 - Ping sweep from SysClient0201,Other
+9d90eb06-91d3-471b-8c63-5ce637c68f66,Day 1 - Ping sweep from SysClient0201,Other
+c9c3f949-ff04-4304-b404-ab7a52e91dfe,Day 1 - Ping sweep from SysClient0201,Other
+6f6dfcb2-0dc9-4e6f-8dd1-4328e19d8fd9,Day 1 - Ping sweep from SysClient0201,Other
+cc514a64-529e-4f5c-834c-64e5ca7f2c38,Day 1 - Ping sweep from SysClient0201,Other
+87edd5ab-8651-496f-b6b9-7de1deed7cda,Day 1 - Ping sweep from SysClient0201,Other
+152d05a0-92e0-46e1-b0d6-c220b0ca7fb4,Day 1 - Ping sweep from SysClient0201,Other
+4918d92b-7305-4767-9cab-8b43840cbfd9,Day 1 - Ping sweep from SysClient0201,Other
+dab3295b-a356-4b4d-9723-ea8cf6a6c9e3,Day 1 - Ping sweep from SysClient0201,Other
+a4c2a0f5-f6c6-4404-ba7b-412e797a463e,Day 1 - Ping sweep from SysClient0201,Other
+35c020c6-7ea8-42e1-9b9d-50b1794871fa,Day 1 - Ping sweep from SysClient0201,Other
+4213697d-551b-487f-bda6-38d67eda6a20,Day 1 - Ping sweep from SysClient0201,Other
+4aaf57ed-9340-4d24-9ff5-19928d5e9be3,Day 1 - Ping sweep from SysClient0201,Other
+e4696426-32da-4452-be33-f094a4321955,Day 1 - Ping sweep from SysClient0201,Other
+45c6d7c8-e4d9-491a-ac91-17dcc0a8b12c,Day 1 - Ping sweep from SysClient0201,Other
+ffe6b5bc-18a6-444a-aaf4-d5f12a969a10,Day 1 - Ping sweep from SysClient0201,Other
+80c51be5-c1d3-4d6b-a259-792766678807,Day 1 - Ping sweep from SysClient0201,Other
+4d8b1e2e-ea6a-4179-836a-bef839296e55,Day 1 - Ping sweep from SysClient0201,Other
+59c201da-fe2e-4ac2-8e85-75692f731c2a,Day 1 - Ping sweep from SysClient0201,Other
+d3719b97-a362-4bdb-83c3-c066f5fe38e5,Day 1 - Ping sweep from SysClient0201,Other
+3935df5b-c33f-4109-9d79-4f0edbb7b704,Day 1 - Ping sweep from SysClient0201,Other
+a493fb51-b4e3-41f7-9bdc-a767df3f150a,Day 1 - Ping sweep from SysClient0201,Other
+1c5928c5-0125-489c-a7e3-371158905d41,Day 1 - Ping sweep from SysClient0201,Other
+69f1a3b4-3411-4e2d-8aea-547a10907089,Day 1 - Ping sweep from SysClient0201,Other
+677d3890-1e5f-4219-8b0a-24ef915a4f06,Day 1 - Ping sweep from SysClient0201,Other
+8adf38fd-a0e2-409d-9838-2473bd4d746f,Day 1 - Ping sweep from SysClient0201,Other
+4c2be9d5-6234-411f-b208-b4fd365c7826,Day 1 - Ping sweep from SysClient0201,Other
+08924f7a-0f94-40cb-8fb6-b288eb803edf,Day 1 - Ping sweep from SysClient0201,Other
+c193b58b-239c-45d7-8063-ae47d701410b,Day 1 - Ping sweep from SysClient0201,Other
+812d9d6d-2efc-4069-8808-122cfb2379c2,Day 1 - Ping sweep from SysClient0201,Other
+50531933-e01b-4351-a2ea-3756992142ae,Day 1 - Ping sweep from SysClient0201,Other
+54a81fd5-7549-48da-b6b4-6e3f2dfbe5aa,Day 1 - Ping sweep from SysClient0201,Other
+0a0e24d8-a3be-4bbf-9555-ecf35ef4838c,Day 1 - Ping sweep from SysClient0201,Other
+b86348a4-f24d-4efe-bfea-7df8f98a2207,Day 1 - Ping sweep from SysClient0201,Other
+bd9cbf35-beab-447e-aaec-8efd6c7df946,Day 1 - Ping sweep from SysClient0201,Other
+edbefa2d-2fd6-41f2-9d71-bab9841c6009,Day 1 - Ping sweep from SysClient0201,Other
+ba9c254c-ea87-4a3a-b4c4-385fee5c37a0,Day 1 - Ping sweep from SysClient0201,Other
+ffb0afc3-266e-420a-a287-2e6bcd28bbcf,Day 1 - Ping sweep from SysClient0201,Other
+a2c2ec88-8bbe-478b-a2f2-0136e5b74444,Day 1 - Ping sweep from SysClient0201,Other
+e6092828-df13-4d7b-b6d7-975c1f774975,Day 1 - Ping sweep from SysClient0201,Other
+942fb4c3-a5fe-4068-a5e2-4657211cb368,Day 1 - Ping sweep from SysClient0201,Other
+2c1a0b39-b7da-4928-a5f2-e120eb7a8ace,Day 1 - Ping sweep from SysClient0201,Other
+46722749-e393-4c56-a200-006226a33d83,Day 1 - Ping sweep from SysClient0201,Other
+51a6e2b8-d649-4c3a-87bb-da5fc4310fa8,Day 1 - Ping sweep from SysClient0201,Other
+2208c30f-b9c0-43be-a426-d5169e8cd2dd,Day 1 - Ping sweep from SysClient0201,Other
+fa2c5a98-ea7b-41a0-81b6-1a26593ff88b,Day 1 - Ping sweep from SysClient0201,Other
+4a24b1b4-623d-4df1-984e-0be68aa3826f,Day 1 - Ping sweep from SysClient0201,Other
+750a0043-8460-420f-9f12-36e737398254,Day 1 - Ping sweep from SysClient0201,Other
+a595e922-afec-4d1c-9dfb-c819cc32c5cf,Day 1 - Ping sweep from SysClient0201,Other
+b9d6d6e6-4fb9-4322-8de0-c072995e12f0,Day 1 - Ping sweep from SysClient0201,Other
+ead85105-2614-44e2-ba1b-9adb63a022fe,Day 1 - Ping sweep from SysClient0201,Other
+f1e7670b-000f-4705-993c-01af86785064,Day 1 - Ping sweep from SysClient0201,Other
+a6613f33-ab78-41ae-bc6a-0a434002b23d,Day 1 - Ping sweep from SysClient0201,Other
+8d9c7ae2-5433-41f5-8e72-d4014c3e5062,Day 1 - Ping sweep from SysClient0201,Other
+a29358c2-508b-4437-9b4c-8fc2344c0082,Day 1 - Ping sweep from SysClient0201,Other
+7acfe778-6a6b-41ec-bba4-571f1c7b37ad,Day 1 - Ping sweep from SysClient0201,Other
+a7250bd3-53c8-43d6-845a-85073c10ceba,Day 1 - Ping sweep from SysClient0201,Other
+373373c6-397f-45bb-b640-7cbda4a704a2,Day 1 - Ping sweep from SysClient0201,Other
+82d8e479-1bee-4b09-9949-c96bb2e606c6,Day 1 - Ping sweep from SysClient0201,Other
+b50ddd99-2dc9-4c12-bdee-43994cd5c7f0,Day 1 - Ping sweep from SysClient0201,Other
+a6afa1ae-7758-4627-9c0a-17680c09848b,Day 1 - Ping sweep from SysClient0201,Other
+232d1ee8-0de8-4195-82a6-6654f0f860f6,Day 1 - Ping sweep from SysClient0201,Other
+dce11027-523f-45da-84bb-421b66432c2d,Day 1 - Ping sweep from SysClient0201,Other
+c0e927cb-2b11-4cfe-bb41-a824b3c3b8c2,Day 1 - Ping sweep from SysClient0201,Other
+f8ee4fd3-1e5d-442d-a420-8d092d90dc6d,Day 1 - Ping sweep from SysClient0201,Other
+013bd4cf-d568-4236-b2ed-1446c7168543,Day 1 - Ping sweep from SysClient0201,Other
+aa2a4a26-a4ac-4258-81f3-9e5ea4da7dc4,Day 1 - Ping sweep from SysClient0201,Other
+7067e574-8378-4e61-884f-49b76a48296a,Day 1 - Ping sweep from SysClient0201,Other
+ab7d3476-2611-443e-8d06-20d2e0f4574d,Day 1 - Ping sweep from SysClient0201,Other
+abdee84e-1b14-44f5-84ff-8974554749c3,Day 1 - Ping sweep from SysClient0201,Other
+6897dd2e-0786-4a6a-9fef-4357e80f0003,Day 1 - Ping sweep from SysClient0201,Other
+f1be6f71-ffeb-44ae-8f17-cd575ca94e3b,Day 1 - Ping sweep from SysClient0201,Other
+cb2505f3-be5b-48ca-96eb-5cd707acef04,Day 1 - Ping sweep from SysClient0201,Other
+cb803e7e-a034-42f0-b4a2-75648d11989d,Day 1 - Ping sweep from SysClient0201,Other
+db4a86f4-5c72-46da-91c1-4cf97e70b9af,Day 1 - Ping sweep from SysClient0201,Other
+71dc45fe-14f3-4c62-ab8b-dd634417f488,Day 1 - Ping sweep from SysClient0201,Other
+9e1c4e90-abc1-4f5a-9a33-e831e3ff9c15,Day 1 - Ping sweep from SysClient0201,Other
+7f0841f2-f9ed-46c1-9d5a-008a3db552b4,Day 1 - Ping sweep from SysClient0201,Other
+2e77f39e-464c-4cbc-8779-380f5c80739f,Day 1 - Ping sweep from SysClient0201,Other
+9bcea60a-d719-499e-aac1-710860b10ca1,Day 1 - SysClient0201 -> SysClient0402 (invoke_wmi),Lateral movement
+af9c662b-4a8d-4fff-899c-943da47e89a0,Day 1 - SysClient0201 -> SysClient0402 (invoke_wmi),Lateral movement
+c8b5713a-82ad-4442-bc59-b9e126a075f8,Day 1 - SysClient0201 -> SysClient0402 (invoke_wmi),Lateral movement
+1955f292-c43a-419d-90fb-886f15293e64,Day 1 - SysClient0201 -> SysClient0402 (invoke_wmi),Lateral movement
+119fd18a-be31-4098-ac5a-b166c615ff17,Day 1 - SysClient0201 -> SysClient0402 (invoke_wmi),Lateral movement
+17d986a4-d213-4edc-8bfa-da08255df3f7,Day 1 - Ping sweep from SysClient0402,Other
+b475d235-f7f9-4c05-b105-b220156271d0,Day 1 - Ping sweep from SysClient0402,Other
+d6a5b9e2-e327-4124-9ae4-0d364aa126ca,Day 1 - Ping sweep from SysClient0402,Other
+d9afda52-6dba-4214-9e3e-6b2114b420f3,Day 1 - Ping sweep from SysClient0402,Other
+5cf37f9f-8b90-40ca-a020-4ae7dbb1bdb2,Day 1 - Ping sweep from SysClient0402,Other
+4bbb5f75-0e02-4160-ab76-ff892d7d2d11,Day 1 - Ping sweep from SysClient0402,Other
+46b18c2b-99f7-4553-a59e-cd4097aac0e3,Day 1 - Ping sweep from SysClient0402,Other
+8e3f8218-e6a0-43b5-ad80-9db31fabd09a,Day 1 - Ping sweep from SysClient0402,Other
+325c3437-0506-4ebd-872e-309ec619b425,Day 1 - Ping sweep from SysClient0402,Other
+838cc96f-7719-4d63-b4d7-2ac5fce06c6f,Day 1 - Ping sweep from SysClient0402,Other
+b480c94c-6b66-472d-ae38-7288022658af,Day 1 - Ping sweep from SysClient0402,Other
+c72fa08f-0ea3-4ff1-a038-44c0107e3018,Day 1 - Ping sweep from SysClient0402,Other
+1d1a4fda-3cde-4f67-8dd3-ea9395c0654d,Day 1 - Ping sweep from SysClient0402,Other
+66226e1f-5c0e-48f4-88e0-279b39f2b1d4,Day 1 - Ping sweep from SysClient0402,Other
+24d6fe1d-010a-4eea-8c7a-b3de4afdf41b,Day 1 - Ping sweep from SysClient0402,Other
+70c3d153-b125-4504-9221-a7b48dd104b9,Day 1 - Ping sweep from SysClient0402,Other
+7c3d19d7-299c-4691-9dbd-ddd7ceecf8af,Day 1 - Ping sweep from SysClient0402,Other
+4064dfd3-7eaf-4cbc-bae8-f16fe5581604,Day 1 - Ping sweep from SysClient0402,Other
+702e3869-2d8f-4b59-8780-87f178b97d2a,Day 1 - Ping sweep from SysClient0402,Other
+5cd111af-8f9a-438f-99d3-73b7439a11a4,Day 1 - Ping sweep from SysClient0402,Other
+d3836367-8b5b-4094-8052-2dc5705132c4,Day 1 - Ping sweep from SysClient0402,Other
+0e08e457-e9af-4a15-a22d-c846692bcf39,Day 1 - Ping sweep from SysClient0402,Other
+73bd691a-a4a1-425f-a999-c67bc5dc934f,Day 1 - Ping sweep from SysClient0402,Other
+c816c636-bd36-426f-8353-724a4c50eb9b,Day 1 - Ping sweep from SysClient0402,Other
+182ab416-889e-448f-bead-fc0dd13aa5f7,Day 1 - Ping sweep from SysClient0402,Other
+bd72b8c7-3531-4890-b4b1-847fc8dbe77b,Day 1 - Ping sweep from SysClient0402,Other
+4027b28b-4fc4-43a9-8b9d-5e4cca4b0cf0,Day 1 - Ping sweep from SysClient0402,Other
+f4947ca9-7e53-465e-86ee-4e85c888cc42,Day 1 - Ping sweep from SysClient0402,Other
+4d7eff63-e4ba-4822-b24b-119e08df816c,Day 1 - Ping sweep from SysClient0402,Other
+5b71179c-d6b9-456f-b1b4-8f4d14d0a886,Day 1 - Ping sweep from SysClient0402,Other
+93d34719-7b6f-4d90-b2a5-93c3c2f1215e,Day 1 - Ping sweep from SysClient0402,Other
+0cc03317-3cd8-4f1a-ad4b-5b5ae4827136,Day 1 - Ping sweep from SysClient0402,Other
+c9b5def8-5d0c-4c40-92bf-ac8a887f5564,Day 1 - Ping sweep from SysClient0402,Other
+4a1a832e-8167-419b-8c2e-376abe5d0398,Day 1 - Ping sweep from SysClient0402,Other
+98610def-ffcd-4c18-b2ad-c6b4a343d96c,Day 1 - Ping sweep from SysClient0402,Other
+47dbd48a-6905-48dc-a2da-65fd5b330d85,Day 1 - Ping sweep from SysClient0402,Other
+315e54ec-2063-4ed8-b9ea-d719731c66e6,Day 1 - Ping sweep from SysClient0402,Other
+705cd912-ccbb-45fd-83ad-7683e3d8ce8c,Day 1 - Ping sweep from SysClient0402,Other
+e0b498ab-2baa-4b2c-9218-b6b5fef2e61d,Day 1 - Ping sweep from SysClient0402,Other
+7cbb7de3-f5ca-45d0-8dab-94d93ac63a37,Day 1 - Ping sweep from SysClient0402,Other
+836a994d-075b-4aca-820b-222c50cae747,Day 1 - Ping sweep from SysClient0402,Other
+30a1c0e7-54cb-4dde-b2f8-bedbdcaa22db,Day 1 - Ping sweep from SysClient0402,Other
+191301e8-4a84-4d1b-9808-99b386e9e8c4,Day 1 - Ping sweep from SysClient0402,Other
+f2b8dab5-c45b-4b83-b218-6289a3623924,Day 1 - Ping sweep from SysClient0402,Other
+bdb7272a-fbde-4cc1-97d2-a7c162d27d02,Day 1 - Ping sweep from SysClient0402,Other
+e1001bb9-1f8c-4729-b635-bd06d9ab61c7,Day 1 - Ping sweep from SysClient0402,Other
+dee4a71a-bab5-4ea6-8b73-f1fcf083521a,Day 1 - Ping sweep from SysClient0402,Other
+14ca4dea-d274-4bad-beab-bf7b49736555,Day 1 - Ping sweep from SysClient0402,Other
+cbe71ceb-15e1-4d11-a5b9-02a4884248ef,Day 1 - Ping sweep from SysClient0402,Other
+f1cd4163-9dc5-4e81-a4bd-5666890c8933,Day 1 - Ping sweep from SysClient0402,Other
+96746419-7b60-4da7-90a0-11866ad5963b,Day 1 - Ping sweep from SysClient0402,Other
+e81d2079-8b06-4473-b6aa-5a4cceedf66d,Day 1 - Ping sweep from SysClient0402,Other
+56f379da-948d-442d-8b35-61e3cf8d8095,Day 1 - Ping sweep from SysClient0402,Other
+6542fba5-b165-4a55-8b8e-0e61ad2ca1de,Day 1 - Ping sweep from SysClient0402,Other
+37604e0f-882d-4ba7-9562-df45a7cca6e2,Day 1 - Ping sweep from SysClient0402,Other
+1d0108c2-d002-46c7-9a37-41eca835ae27,Day 1 - Ping sweep from SysClient0402,Other
+cacb99c0-4af0-497f-b9fb-725346d676cb,Day 1 - Ping sweep from SysClient0402,Other
+a8569ba6-a1ea-448d-80de-d6060c240dd4,Day 1 - Ping sweep from SysClient0402,Other
+aedf76db-d03a-47b3-a0da-0c9d098ab97f,Day 1 - Ping sweep from SysClient0402,Other
+51c5c370-ede5-4a74-a67e-2976e858a45a,Day 1 - Ping sweep from SysClient0402,Other
+1869f19b-a523-4158-96ab-9cba9bdb9c3c,Day 1 - Ping sweep from SysClient0402,Other
+2dcee754-bdcd-4b1a-9793-cde0c471afeb,Day 1 - Ping sweep from SysClient0402,Other
+513c049c-f55e-42f6-9c9e-56f84dfd2a96,Day 1 - Ping sweep from SysClient0402,Other
+a54ab185-5522-48ae-8031-76ee338c1ed0,Day 1 - Ping sweep from SysClient0402,Other
+475e3387-e371-436f-9605-cc7554422277,Day 1 - Ping sweep from SysClient0402,Other
+b358985e-595b-461e-9133-416475466d79,Day 1 - Ping sweep from SysClient0402,Other
+90bf15e8-191d-4e20-84ad-6544b50591cf,Day 1 - Ping sweep from SysClient0402,Other
+ce483e27-4cf2-4259-bcbc-5c07d8ff8c82,Day 1 - Ping sweep from SysClient0402,Other
+91a3582f-238d-433c-909d-39580e70f971,Day 1 - Ping sweep from SysClient0402,Other
+792c57f8-b76d-4693-845f-1563cea160f2,Day 1 - Ping sweep from SysClient0402,Other
+debfedce-8732-4570-89ac-7d8c06785a61,Day 1 - Ping sweep from SysClient0402,Other
+6fd2948d-e38e-43cd-9caf-4d960c08ca15,Day 1 - Ping sweep from SysClient0402,Other
+e25be701-3039-4eb9-bced-d29a9a79afcc,Day 1 - Ping sweep from SysClient0402,Other
+1a860cd6-c1be-45a4-bb44-24a91fc0f726,Day 1 - Ping sweep from SysClient0402,Other
+e7f8d897-0685-4c05-9455-e75ac8c53f8b,Day 1 - Ping sweep from SysClient0402,Other
+de8700d8-ef84-4314-bde8-b98a9bb184db,Day 1 - Ping sweep from SysClient0402,Other
+7d43b402-8aa9-4b3b-b448-7657224407ef,Day 1 - Ping sweep from SysClient0402,Other
+49a38bdc-739a-4d57-bcad-8cffbaa541c2,Day 1 - Ping sweep from SysClient0402,Other
+e1967063-6fc6-4bc4-9507-361a2cbec60f,Day 1 - Ping sweep from SysClient0402,Other
+695c37da-b022-461a-b11a-9cecf901893d,Day 1 - Ping sweep from SysClient0402,Other
+f5b96478-ed55-4c72-a016-f1fd77afce49,Day 1 - Ping sweep from SysClient0402,Other
+5ca5c5cf-7289-47a6-bacf-191ef9f97304,Day 1 - Ping sweep from SysClient0402,Other
+a78e1608-b0fb-40ac-be6c-c71aa6fa9c75,Day 1 - Ping sweep from SysClient0402,Other
+ae5281ef-654b-4430-8d71-6a80c590fab0,Day 1 - Ping sweep from SysClient0402,Other
+d4c351d6-4299-4de6-8dae-5714f4325889,Day 1 - Ping sweep from SysClient0402,Other
+b6a47305-fd5d-4307-b082-3e108c895046,Day 1 - Ping sweep from SysClient0402,Other
+98c3414f-aecb-4595-a9ff-190e5a99f648,Day 1 - Ping sweep from SysClient0402,Other
+4dfe7da8-76e1-4909-886a-1f100048328d,Day 1 - Ping sweep from SysClient0402,Other
+6c7aa800-b816-43b9-84c0-97323bf58923,Day 1 - Ping sweep from SysClient0402,Other
+c209c0c8-2d09-40c6-ae59-0b10cef8a315,Day 1 - Ping sweep from SysClient0402,Other
+24119c9a-417c-40d5-95cc-578073f6ca4f,Day 1 - Ping sweep from SysClient0402,Other
+e3e38df1-bb2d-4da4-b28b-493eb68d697f,Day 1 - Ping sweep from SysClient0402,Other
+1794e3ad-1cd0-4a1b-8b6a-05b53e6b729b,Day 1 - Ping sweep from SysClient0402,Other
+4e16ebe1-e575-4cfa-bc64-404608a971d6,Day 1 - Ping sweep from SysClient0402,Other
+f1614cda-f468-49c9-89f4-68b0c6de0b19,Day 1 - Ping sweep from SysClient0402,Other
+3d8da34d-0e94-402e-9703-a3d17f059d6e,Day 1 - Ping sweep from SysClient0402,Other
+3762dcb5-32f4-4eb3-ae43-2d921959ba0f,Day 1 - Ping sweep from SysClient0402,Other
+43d75707-7e65-4f1d-a25b-f8028d460ff6,Day 1 - Ping sweep from SysClient0402,Other
+246e1472-3b39-48c5-a929-38a2bac32531,Day 1 - Ping sweep from SysClient0402,Other
+d537673d-106c-4284-b2d3-91870443aa1e,Day 1 - Ping sweep from SysClient0402,Other
+4a165c72-44cb-4f6c-b0fa-96d5c8feac4e,Day 1 - Ping sweep from SysClient0402,Other
+88dfc53c-d5f3-4943-a291-ab2c4f60cd78,Day 1 - Ping sweep from SysClient0402,Other
+ef3f2bfd-e419-4fa2-b5d0-7f468ba87a0e,Day 1 - Ping sweep from SysClient0402,Other
+63a71540-dfd0-4a02-b2a0-ec4dffe48fd8,Day 1 - Ping sweep from SysClient0402,Other
+b6108a7d-5b87-466e-a241-1a1bf8b7779a,Day 1 - Ping sweep from SysClient0402,Other
+f7896571-0019-4d0d-84c4-6b6d839a1bf5,Day 1 - Ping sweep from SysClient0402,Other
+bf5a3b25-4d52-4415-84a9-768d96368edb,Day 1 - Ping sweep from SysClient0402,Other
+ac66b679-e6d0-4179-b0bc-ccd4e131ed0b,Day 1 - Ping sweep from SysClient0402,Other
+dbf7a041-8a6a-4138-999e-7a9b6304056f,Day 1 - Ping sweep from SysClient0402,Other
+4375c265-fa8e-46d6-9d2d-b7cdeb287237,Day 1 - Ping sweep from SysClient0402,Other
+e3a580b5-57f2-4752-854d-a2f0ba284951,Day 1 - Ping sweep from SysClient0402,Other
+5d727d05-f79a-4f8a-a94f-2d617ec6826e,Day 1 - Ping sweep from SysClient0402,Other
+0220e50f-0f6f-4cfc-bbd3-58ca2d852523,Day 1 - Ping sweep from SysClient0402,Other
+98cdd087-08b3-4166-b6d1-283ffa9e77da,Day 1 - Ping sweep from SysClient0402,Other
+63f03b53-7a78-49fd-9320-9c84a3aff1dd,Day 1 - Ping sweep from SysClient0402,Other
+89b341ca-79e0-4b52-ab09-a9ce8b0b8d2b,Day 1 - Ping sweep from SysClient0402,Other
+00011579-448b-453a-817a-ba5367f6da74,Day 1 - Ping sweep from SysClient0402,Other
+7f7e6d50-f26a-48e9-bd58-6056ca2d6d16,Day 1 - Ping sweep from SysClient0402,Other
+254fd38b-8f4d-4a8f-8116-c3230790e89e,Day 1 - Ping sweep from SysClient0402,Other
+c44e6975-6c84-49e3-a787-01a14949f472,Day 1 - Ping sweep from SysClient0402,Other
+7cf9c95d-b458-416f-8a54-127a71ad2f43,Day 1 - Ping sweep from SysClient0402,Other
+5135a727-39f4-401a-854d-61dfa237327d,Day 1 - Ping sweep from SysClient0402,Other
+2fec9459-7d85-46b9-8735-4372baed0a01,Day 1 - Ping sweep from SysClient0402,Other
+d392f2a3-a6ba-435d-8ac9-518e3173f888,Day 1 - Ping sweep from SysClient0402,Other
+05aeefd1-0a7a-4dbd-862e-671e5091cbd8,Day 1 - Ping sweep from SysClient0402,Other
+697d5c17-7952-4ef2-870f-627620e7c8ad,Day 1 - Ping sweep from SysClient0402,Other
+7af2fa18-ce00-4e58-980a-114442160c96,Day 1 - Ping sweep from SysClient0402,Other
+28c8e8fa-2f91-411f-af67-33faca107d5c,Day 1 - Ping sweep from SysClient0402,Other
+5dca3550-2094-4de3-a979-00dc3dcb7b62,Day 1 - Ping sweep from SysClient0402,Other
+5dda0959-98e6-4348-95f0-3d644a234465,Day 1 - Ping sweep from SysClient0402,Other
+fcb102e6-abfb-41d7-ba8d-1850a5afee33,Day 1 - Ping sweep from SysClient0402,Other
+c51b0409-5bf4-4172-add8-121c48fbe8ad,Day 1 - Ping sweep from SysClient0402,Other
+869d420a-862b-4bdd-9f10-d6cb4a604c23,Day 1 - Ping sweep from SysClient0402,Other
+4f28ead2-1ed4-45b0-a5e6-b4af44c09280,Day 1 - Ping sweep from SysClient0402,Other
+4f4bab57-cd1c-43bc-9cda-dc42be1b8832,Day 1 - Ping sweep from SysClient0402,Other
+eca6a867-0534-41de-b61b-5cfd33c7c185,Day 1 - Ping sweep from SysClient0402,Other
+e293384f-8283-4d5a-a303-104b118fe6cc,Day 1 - Ping sweep from SysClient0402,Other
+828b2edd-dc39-4454-91b9-018b40b98f19,Day 1 - Ping sweep from SysClient0402,Other
+7c358bbb-956a-40e3-8236-0195c488cbf0,Day 1 - Ping sweep from SysClient0402,Other
+16d68b25-eb61-4fb2-90ae-680e689e91d2,Day 1 - Ping sweep from SysClient0402,Other
+0febac07-45f4-4704-a74e-9998807b9c33,Day 1 - Ping sweep from SysClient0402,Other
+ddc4e75d-2995-41aa-ad82-3c3259071a54,Day 1 - Ping sweep from SysClient0402,Other
+9db1b7b0-4f37-4db6-9046-ee3880681d6c,Day 1 - Ping sweep from SysClient0402,Other
+7d3e1766-4539-4c22-9927-9717f8108d50,Day 1 - Ping sweep from SysClient0402,Other
+d7ce53d3-429f-4ec5-b184-8bf3638838a6,Day 1 - Ping sweep from SysClient0402,Other
+98060189-6e40-419f-a759-4b31066ac235,Day 1 - Ping sweep from SysClient0402,Other
+0fd02b1e-3263-4f1d-91e3-5624a926e704,Day 1 - Ping sweep from SysClient0402,Other
+cab59756-3649-4353-a7e7-1746c9ff7475,Day 1 - Ping sweep from SysClient0402,Other
+b07aa3c9-3211-4641-9181-b27ec4ab9116,Day 1 - Ping sweep from SysClient0402,Other
+1ba113eb-1053-46ff-83bd-09f0325a67f2,Day 1 - Ping sweep from SysClient0402,Other
+a8232280-f62f-4f01-859b-06d878c5590d,Day 1 - Ping sweep from SysClient0402,Other
+370909e0-f998-47b6-987d-111b62613087,Day 1 - Ping sweep from SysClient0402,Other
+a7eb41e7-1591-4210-9271-5f30317e33e2,Day 1 - Ping sweep from SysClient0402,Other
+10166558-d981-4af8-8aff-d058f6b49d41,Day 1 - Ping sweep from SysClient0402,Other
+c7fddd75-403d-4506-9a51-3360493d3f52,Day 1 - Ping sweep from SysClient0402,Other
+bbdc8900-5695-4623-a801-06fe40cba7fc,Day 1 - Ping sweep from SysClient0402,Other
+ba7336ec-eeed-4d3f-946a-aba087ea4aae,Day 1 - Ping sweep from SysClient0402,Other
+deaf71dc-4146-465e-b9d0-6e460c1c5f2b,Day 1 - Ping sweep from SysClient0402,Other
+5be86d83-15aa-4913-812c-3d17582663a3,Day 1 - Ping sweep from SysClient0402,Other
+afc7c7e4-328f-4799-b90d-4959136cf5d2,Day 1 - Ping sweep from SysClient0402,Other
+b473f438-ecce-4f51-8a53-22896ef0273e,Day 1 - Ping sweep from SysClient0402,Other
+3e6433f2-cc76-4002-a791-56732b48fa16,Day 1 - Ping sweep from SysClient0402,Other
+ac315c79-2701-4a90-9b03-703fa6c1ead1,Day 1 - Ping sweep from SysClient0402,Other
+f9ee3785-9f91-4c05-88c6-9a0d1695194e,Day 1 - Ping sweep from SysClient0402,Other
+72038868-0d2d-41f9-9efc-e1ef0f228d74,Day 1 - Ping sweep from SysClient0402,Other
+f8a6a70f-a8a3-4619-b88d-d68575e530d8,Day 1 - Ping sweep from SysClient0402,Other
+5d6233e8-c640-4746-9afd-8e38ecac3f22,Day 1 - Ping sweep from SysClient0402,Other
+8200724a-7f46-4119-a2f4-9f6ada434fd7,Day 1 - Ping sweep from SysClient0402,Other
+72a2bdfd-aa19-498e-819e-673f612b9343,Day 1 - Ping sweep from SysClient0402,Other
+58809783-2a26-493f-adf1-599ef4da9cf6,Day 1 - Ping sweep from SysClient0402,Other
+50eff515-5cf3-4256-ab49-35b32ecbd989,Day 1 - Ping sweep from SysClient0402,Other
+023118d6-81a1-4f2f-937e-d9c58681e29a,Day 1 - Ping sweep from SysClient0402,Other
+9d3e09e4-2a79-4c91-bd5d-8571e8412adf,Day 1 - Ping sweep from SysClient0402,Other
+9cb4841d-b195-4451-a98a-7e3da138477f,Day 1 - Ping sweep from SysClient0402,Other
+d7266eb4-825d-4924-b1bf-ae31ad7c4270,Day 1 - Ping sweep from SysClient0402,Other
+74ede8d0-edad-4952-a1bd-c1c982988933,Day 1 - Ping sweep from SysClient0402,Other
+5570a535-4dfe-4924-8f56-0dcf19b88fdd,Day 1 - Ping sweep from SysClient0402,Other
+85697110-ab4c-40c0-925d-4ca6bdef0daf,Day 1 - Ping sweep from SysClient0402,Other
+22a96978-2030-45d2-ad39-47cc7093aae9,Day 1 - Ping sweep from SysClient0402,Other
+46dde4b1-822c-4c93-9827-0d219c28d612,Day 1 - Ping sweep from SysClient0402,Other
+75dae307-4a81-49f6-9ddb-3ecca2c7effd,Day 1 - Ping sweep from SysClient0402,Other
+786c39ea-46f2-410e-8311-5f0dcec84907,Day 1 - Ping sweep from SysClient0402,Other
+746122f2-77b9-49e8-80fc-05b716cb044d,Day 1 - Ping sweep from SysClient0402,Other
+449a5153-3ed9-446a-8f5b-e7789dc8c2ad,Day 1 - Ping sweep from SysClient0402,Other
+02724188-1713-4846-aa6b-814fbe13c85a,Day 1 - Ping sweep from SysClient0402,Other
+fe6d3af5-cdf7-47ee-9246-dbdea889d972,Day 1 - Ping sweep from SysClient0402,Other
+4207406c-99b2-4fce-b570-5f20465ed342,Day 1 - Ping sweep from SysClient0402,Other
+e3c74bcf-ddf3-4891-a56d-94ec3d866b98,Day 1 - Ping sweep from SysClient0402,Other
+4fd69a39-7db1-449b-a73f-c7ca1daf9df4,Day 1 - Ping sweep from SysClient0402,Other
+8fcb7036-3acd-4427-bd59-64653471af19,Day 1 - Ping sweep from SysClient0402,Other
+85136256-8fca-4d9e-a46d-b14479a18631,Day 1 - Ping sweep from SysClient0402,Other
+998d59a0-fdf8-4c56-8cb4-ec3511efb925,Day 1 - Ping sweep from SysClient0402,Other
+1edac70b-f562-4046-9098-04b2a46b9367,Day 1 - Ping sweep from SysClient0402,Other
+0aebdcd6-a239-47c9-9212-56a4e62aa282,Day 1 - Ping sweep from SysClient0402,Other
+82250b69-32ec-491a-bd62-1df56a9e00a4,Day 1 - Ping sweep from SysClient0402,Other
+762c1c38-ea66-481b-ac84-157b4159f54c,Day 1 - Ping sweep from SysClient0402,Other
+6a69cd7c-a6a0-4abd-be4f-f560a82e62de,Day 1 - Ping sweep from SysClient0402,Other
+945bc230-d82f-468c-b3e9-8b4422561155,Day 1 - Ping sweep from SysClient0402,Other
+eefd037e-398b-4df8-ac14-b12ecc0346a5,Day 1 - Ping sweep from SysClient0402,Other
+fb258557-5dbf-44d5-a422-e61b7baf7a2f,Day 1 - Ping sweep from SysClient0402,Other
+466a55cd-abff-4810-8d96-c13be646f12b,Day 1 - Ping sweep from SysClient0402,Other
+c14ec416-5fb1-44ab-93a6-a474e1ee9bdf,Day 1 - Ping sweep from SysClient0402,Other
+adc1e3cb-d763-4454-9833-29a4eb6c2f90,Day 1 - Ping sweep from SysClient0402,Other
+b5c28437-cfae-4579-859a-6a0bd73990bd,Day 1 - Ping sweep from SysClient0402,Other
+b2dbe3ab-5c5a-4c97-9c49-693822e6a622,Day 1 - Ping sweep from SysClient0402,Other
+ad97514a-2acf-4324-9300-ea66b8a0aa48,Day 1 - Ping sweep from SysClient0402,Other
+8e8af873-cd26-49f9-8aee-6df86a25e297,Day 1 - Ping sweep from SysClient0402,Other
+c3cb61fc-4aa9-484f-ab0e-c1fc622d92de,Day 1 - Ping sweep from SysClient0402,Other
+975a9531-dcdd-480d-813e-085b78cb95fb,Day 1 - Ping sweep from SysClient0402,Other
+38d40210-174c-43de-99b5-66804772b474,Day 1 - Ping sweep from SysClient0402,Other
+1a0cbe03-9d59-4396-ac2a-a8ec3211418f,Day 1 - Ping sweep from SysClient0402,Other
+b47c4d27-af5e-4a2e-8af5-eb0c3ad29da5,Day 1 - Ping sweep from SysClient0402,Other
+33f19855-90f4-45c3-a24b-501cdec468b5,Day 1 - Ping sweep from SysClient0402,Other
+0c2ade42-a9a2-45b8-a1c6-f080a4269f83,Day 1 - Ping sweep from SysClient0402,Other
+88872aab-7748-43e6-9245-76b0f0796693,Day 1 - Ping sweep from SysClient0402,Other
+80d36650-ca8c-4803-81d8-090d811ab63f,Day 1 - Ping sweep from SysClient0402,Other
+a584ae3c-3e80-480b-b21f-01376f60cc4b,Day 1 - Ping sweep from SysClient0402,Other
+1b8d877a-9872-40b6-8ed9-207178578d47,Day 1 - Ping sweep from SysClient0402,Other
+95800090-86aa-47b0-94e4-d1b2acfa20b3,Day 1 - Ping sweep from SysClient0402,Other
+ec87dc19-9468-4a45-a2fa-38f8595e1a31,Day 1 - Ping sweep from SysClient0402,Other
+5b2c6d11-0b9c-44ff-9087-111bbd09b155,Day 1 - Ping sweep from SysClient0402,Other
+86313b8f-d1c1-4196-b823-4cba29dfdf5d,Day 1 - Ping sweep from SysClient0402,Other
+40a776bb-a960-4083-afa1-d9cb7a1e2e13,Day 1 - Ping sweep from SysClient0402,Other
+982ee4ea-f748-4060-ad7b-d00b7e7e6e82,Day 1 - Ping sweep from SysClient0402,Other
+a4e1fa37-ffd4-4add-8e93-d434465e0b26,Day 1 - Ping sweep from SysClient0402,Other
+076279c9-026a-4222-b3ac-e0bc926af34a,Day 1 - Ping sweep from SysClient0402,Other
+e42a07f2-b63f-43c1-8195-98b47d03d681,Day 1 - Ping sweep from SysClient0402,Other
+b9ec1a8e-2844-4486-840b-7923cd53164d,Day 1 - Ping sweep from SysClient0402,Other
+f56f0f79-d545-4ffa-81ff-f2a43ffe8986,Day 1 - Ping sweep from SysClient0402,Other
+3b1bb58d-ddd5-45a4-98c7-03807b354340,Day 1 - Ping sweep from SysClient0402,Other
+4328b933-6394-4920-99f7-b8586bc0dbfe,Day 1 - Ping sweep from SysClient0402,Other
+b7fdca44-bc89-4d74-b028-d248d6738760,Day 1 - Ping sweep from SysClient0402,Other
+66e60aef-2bfa-4d41-92a6-3d99b168135a,Day 1 - Ping sweep from SysClient0402,Other
+1debc9db-7e29-4337-b617-cf509cc8be6d,Day 1 - Ping sweep from SysClient0402,Other
+6a45ad1e-e442-4fc9-a68e-e7f26b1e8959,Day 1 - Ping sweep from SysClient0402,Other
+d9d3d174-a7d9-4aa0-bd67-cd2bfe7b9cd7,Day 1 - Ping sweep from SysClient0402,Other
+49e2605d-b796-4159-8169-47e68475e6c3,Day 1 - Ping sweep from SysClient0402,Other
+2c370bd6-230c-4db4-94ce-643940d01053,Day 1 - Ping sweep from SysClient0402,Other
+25d19087-df55-499e-a53a-e5c2ffe1b3af,Day 1 - Ping sweep from SysClient0402,Other
+6487f32f-da77-4f01-b2d1-97404cf47e91,Day 1 - Ping sweep from SysClient0402,Other
+14423cae-70d2-44af-9cf6-29dc25ce9083,Day 1 - Ping sweep from SysClient0402,Other
+402fa1ed-3cd9-4569-b732-2b94e31b8732,Day 1 - Ping sweep from SysClient0402,Other
+cb122ce7-b7d9-4e78-8cb9-18c376177ef5,Day 1 - Ping sweep from SysClient0402,Other
+c900f51a-c592-496e-a143-3518e22bde76,Day 1 - Ping sweep from SysClient0402,Other
+75c3772d-39fb-43e9-9cd2-5b9559866fa5,Day 1 - Ping sweep from SysClient0402,Other
+20100d07-4a92-4027-aa39-71ca770877e7,Day 1 - Ping sweep from SysClient0402,Other
+4d6de1ca-2fa2-4259-8d04-a4a81f87d3bf,Day 1 - Ping sweep from SysClient0402,Other
+fb601e24-5127-45b1-b260-0a25e7c1da26,Day 1 - Ping sweep from SysClient0402,Other
+d7d3ca46-8051-443b-9db8-c7e22f9959d6,Day 1 - Ping sweep from SysClient0402,Other
+bdd6235c-b1cd-4fa7-ab83-353062e246c5,Day 1 - Ping sweep from SysClient0402,Other
+1edca594-470e-4fd8-81ee-7361758b1ad8,Day 1 - Ping sweep from SysClient0402,Other
+29e75389-c663-4d0e-8988-c7aa923ba769,Day 1 - Ping sweep from SysClient0402,Other
+06fee0ae-2d81-47e3-a896-950b0f26fdfd,Day 1 - Ping sweep from SysClient0402,Other
+695b0e25-e0a3-4013-8eb0-07cbf7c16fbf,Day 1 - Ping sweep from SysClient0402,Other
+bb57912b-2d65-46bb-88a9-10735db0918b,Day 1 - Ping sweep from SysClient0402,Other
+b15d77fd-9ae1-4391-982f-ae76a5da1615,Day 1 - Ping sweep from SysClient0402,Other
+2ec7f656-b6fc-4f69-bd7e-b406e9a74845,Day 1 - Ping sweep from SysClient0402,Other
+a3406830-d586-4fed-b43c-c282db884baf,Day 1 - Ping sweep from SysClient0402,Other
+78acf6c8-9941-41c1-97c1-e113a29d159d,Day 1 - Ping sweep from SysClient0402,Other
+efe42ae9-62a3-4f1f-98ea-f53ab4291d74,Day 1 - Ping sweep from SysClient0402,Other
+c236483f-312d-4655-aa63-76fddc6e56c0,Day 1 - Ping sweep from SysClient0402,Other
+1745ba5a-62a6-4a56-8f39-fe2985fe74e3,Day 1 - Ping sweep from SysClient0402,Other
+c8e00d76-fc25-44af-a811-c972930bf0a4,Day 1 - Ping sweep from SysClient0402,Other
+f9299f92-555e-4ad6-b62b-a2a17c00181c,Day 1 - Ping sweep from SysClient0402,Other
+030668bb-fdcd-494f-ae08-3cebacc33286,Day 1 - Ping sweep from SysClient0402,Other
+0a5d0157-d3fa-44a5-8a84-d3dafa71426d,Day 1 - Ping sweep from SysClient0402,Other
+2eacff5e-13f2-4309-acc6-6b75e683343f,Day 1 - Ping sweep from SysClient0402,Other
+bd4ab222-5a2e-43c4-9a2c-a3285a71f013,Day 1 - Ping sweep from SysClient0402,Other
+42adbecb-5928-4a6a-b5a0-6d031e0852e0,Day 1 - Ping sweep from SysClient0402,Other
+6c833c10-f9b0-45b8-ae91-091e8fee19cd,Day 1 - Ping sweep from SysClient0402,Other
+6efb547d-d4cb-4605-93ff-4a47e87f5c11,Day 1 - Ping sweep from SysClient0402,Other
+cd0881a9-3f2a-470d-b0c5-e48d6229e5b2,Day 1 - Ping sweep from SysClient0402,Other
+2c977d9f-a6b7-4aff-9be0-1ce9350a16bf,Day 1 - Ping sweep from SysClient0402,Other
+ebcab8c1-20dc-4bc0-a379-b1e301661055,Day 1 - Ping sweep from SysClient0402,Other
+ceccb024-b1ff-4f05-8b02-3f243c8bc5ca,Day 1 - Ping sweep from SysClient0402,Other
+298d3781-c52f-4f4b-9b72-e5421e585b3b,Day 1 - Ping sweep from SysClient0402,Other
+4c478547-fbcc-4b5c-a8cb-97ad5bc6efd7,Day 1 - Ping sweep from SysClient0402,Other
+8233ed93-a98d-44e2-b4e9-300b4dce4e8a,Day 1 - Ping sweep from SysClient0402,Other
+620a2a5a-6488-4104-9444-9747c80e66bd,Day 1 - Ping sweep from SysClient0402,Other
+b6d3de35-9c5a-41f1-bd08-4f22adb62525,Day 1 - Ping sweep from SysClient0402,Other
+5ccaaf57-4fe2-4e70-85b0-5514deb4d6f8,Day 1 - SysClient0402 -> SysClient0660 (invoke_wmi),Lateral movement
+b53a484b-7156-49ba-88d5-e24677e863d6,Day 1 - SysClient0402 -> SysClient0660 (invoke_wmi),Lateral movement
+3f1b2c0d-3c12-41c3-b9d3-3cd3ebbf5754,Day 1 - SysClient0402 -> SysClient0660 (invoke_wmi),Lateral movement
+aa39bda7-b6db-4a65-a4dc-231d2a242a8c,Day 1 - SysClient0660 -> DC1 (invoke_wmi),Lateral movement
+0b18d4f6-c285-481f-92d0-00166d85d3c1,Day 1 - SysClient0660 -> DC1 (invoke_wmi),Lateral movement
+d75be259-7e90-4abf-8537-a6b861c4e698,Day 1 - SysClient0660 -> DC1 (invoke_wmi),Lateral movement
+92201d92-01ff-4e5b-8863-b0e8f4309dfa,Day 1 - SysClient0660 -> DC1 (invoke_wmi),Lateral movement
+c03a647d-9eec-4dfc-9d08-930c73e0c5f3,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+045894e5-95d5-4b8c-bedc-17714de0b9ee,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+ac1bd1da-50c5-42b2-a15c-64afaff689be,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+61f86d25-7a28-4a3b-b8b2-30f0a778bbe6,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+6a80c95e-07ba-49ff-a755-5ff8011728bd,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+d4e468f2-67bb-42b7-be7a-11e3b2b86001,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+72db7edc-69df-4cc6-92db-ca4d4d60d5f4,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+cced8b79-b963-4abc-b60e-bed770c71d5f,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+b9b5dedc-98dd-40e8-840a-054c54c5b65e,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+c9ed7b35-4d13-47a6-bca1-35e1284f4db5,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+a728382f-55e1-4fdd-a5fa-eb26dee49340,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+a4081a46-c544-4aa2-94e5-cf767c03024b,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+d78a5561-57ef-45a8-861c-facde0b14151,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+d2f362a0-d6fa-4bfd-8256-92ca00c812ff,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+17c0272f-a5ed-447a-9a61-8546ad71a95e,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+07d28aed-9091-466e-afcc-23b0cf868c28,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+b31c9fa3-0964-49ac-9683-a4a80b5437d2,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+747025ce-a0fe-4f41-be09-783f2aa02403,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+2e7a56bc-4087-4787-9bfd-4971a57fc9fa,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+2f5a24c6-3fb0-4659-8c73-65b9e859cd88,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+214ab818-1930-411c-9df2-25b2a7f7af3f,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+918dd426-0c24-41a4-a6e6-d47963a490f1,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+77c51ba6-ff2d-449d-b175-aebb8ae74e05,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+80290086-d848-4fcc-9606-bb2f2c9515b7,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+65dfb547-9425-44cc-8ef5-fbaf8a52abaf,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+1ea35bc0-a54c-4fe0-8892-1709a39a7e08,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+ce920605-c011-4a59-ba2c-ea688c114b9f,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+2d2b3e9a-d4a1-4cdd-a4d3-4f9224dacc33,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+238f3222-de8c-4c29-9792-8d1b4323f794,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+2fea7554-bb9f-470b-a181-6e6c5e1ce0ff,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+acf8b3f0-e76b-4132-9cba-21a729c20937,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+6aaf1241-af47-4544-bbf3-d4fcf7388f64,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+e3e0169d-2cce-450e-b730-fba69d5b23ce,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+78e6fd11-17bd-4eb3-acde-dfd0ccfb16e8,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+4dc633b7-3097-49b7-82ba-c32b7f7a3057,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+6d2c669a-1c71-4783-a945-8c808e2d79d3,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+1121b55a-928c-491a-9fa4-4277e83a6381,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+b4909cd6-c584-4fd8-89b9-092ae7978b72,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+c3c6c1d6-8dc0-45bd-b06a-d032eeb78f76,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+f4211fa8-3d73-4f54-8446-532a581a9333,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+db76284b-fc92-429d-9ac7-27498a790c72,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+8c15749c-53ae-491b-9ad2-dab42996b513,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+9e410199-c9a2-4310-a0b9-fdbba2c4ed75,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+08b58132-ee59-4098-ad5a-96a855d005af,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+9892ba23-1cf2-45c5-840b-0ea11c264cba,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+922c6619-1735-4a77-b359-9d11b3eb7b9e,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+5a5e32ab-8d03-4a6f-b8d0-216a528fe4b4,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+ef5ff04d-5075-4403-820b-ae12199dc7e9,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+7250f042-a69f-44a1-91ab-cdd838700493,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+0d6b566f-45a1-4b1a-868f-a06a957e335d,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+6e8813ae-e174-465a-b84d-a0fe3b38d8c4,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+74d29bbd-6047-4440-981e-a02ad2e9546f,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+3841c871-8bdb-46ea-8e3a-d32e67c413f9,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+0fc627f7-35dd-4b66-92f0-4a2237e1c11d,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+f3d89901-7982-4d5c-9cb6-1f4f7ad564e3,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+777e532a-755a-42a6-a65c-65c4d5a9f8a6,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+a95af023-2814-4324-9161-ee3a66a1a1ce,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+bd5b26db-dcfb-4b04-8063-0f9c8bf1c380,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+7c5efe24-9fa3-45bb-b8bb-16aa8bed1173,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+9ca4f791-b106-47ab-81dc-f9d1d5116d7f,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+91767dc4-085f-4363-922f-f651a930ff37,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+ad1d7c93-f87f-49f9-a217-20c1bb0e0bce,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+f724c6cd-44c7-4977-a141-238092206f8b,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+20f851c5-d641-42ae-9cbe-76c7fc288d8d,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+3744808f-4eca-4003-b111-0e09ee23bf0b,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+a87c144c-72ea-4851-a145-1530207b32b5,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+c59fbcec-d2d8-45c3-ac22-bcce52856987,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+c816e2d3-d0d4-4dfb-b244-bd501ad5fb48,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+a6adf146-5a35-42dc-8000-b4af69b09579,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+a1c7eeca-5783-4216-a719-d4df25881619,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+fcbbf51c-6e32-440c-8de6-5337959ec82b,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+c72d30e5-6046-4309-9bc7-d683b4bed641,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+c7453693-cd03-4164-bb61-bfc1a9804b01,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+fd45081a-0afe-49a2-a750-9ba631492928,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+f6b6449c-fb50-4798-b3e4-47eb36bb44f6,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+86a68c64-3eb0-4a0c-813d-d56f1819b667,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+642cd9be-286b-4155-bb8b-e90a15358ec5,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+368649da-8129-471f-9683-91fe84dd7fd5,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+91e4d482-086e-42c3-a81e-46fa5ceaea41,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+86edebcc-e27c-4598-a22c-9e1d9e2d15e9,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+99a0513d-5b81-44d8-baae-b63a024318e6,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+2febfe50-6d5f-4ff6-b31f-ffddcaf53079,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+d5c835eb-d397-4382-b874-cb8187e74dcc,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+656389f9-7c11-466f-837c-f97ddf00d40c,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+6affafab-6e4c-4186-9cfd-c1a6cfed4f1a,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+684602c9-34a4-4ecf-9310-a3547fcdc67e,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+5fe5d70f-9ab2-480a-a797-70daaf0b7e5a,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+3a6a1f55-9236-4d1a-bcaf-813be719eb61,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+21604087-77a5-482d-95bb-128cf6907ea1,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+ebcb031a-644b-49f7-8bbd-fb22594cb42a,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+1ef3a982-313b-4107-b9ce-0f95f889cc98,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+53da3765-ebff-4c3a-9a23-c2f96302ae57,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+52a9689f-3db2-45a1-a202-07cfcc71c4b5,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+7fb1e05f-8a56-4cf8-8abf-37df6605f499,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+c43b9a39-3f78-4b1c-97ea-062246484ea1,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+a81b5329-ea25-4d2d-bfde-7e53a412c153,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+aa8c3971-b902-4b9a-9b08-76ebb217b2ed,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+489b90ef-4a41-4274-8e6a-f2071e11afb9,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+f061335c-0d77-4a24-92df-b4f90b4578a4,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+731afb12-e220-4788-b3a6-ab09f4506c98,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+8c86d788-48c5-4ba7-b3ea-554f78f9b1bb,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+a53c05da-761b-4498-8cde-7198ab07f152,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+d4a508c2-6fcf-4aa9-acdf-52dac4dcf0ef,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+5742622c-5335-4ee3-ae0a-b4effc7c7ac0,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+55d5a102-08cc-4758-974a-a6263bb9e391,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+e47435c9-78f4-40c8-ba61-63a1de8819c9,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+18d13480-f153-4b4f-abf6-621d88a130d5,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+f2a9e5be-d084-43b4-9f63-50df1b2b0eac,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+1c2d84b3-29ca-4a4c-91e0-e84544310c09,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+b9104365-86b4-4402-bd6e-27ec5298f06e,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+2025ef85-27fe-4573-9d75-e3da11bc669f,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+2ba721a8-db67-48d6-b668-c08b0170678c,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+62a82a40-2c7b-4955-be28-0b7c9dc2a1d8,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+795abd89-3b7e-4d14-b97b-fb13fc020c08,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+84c2804e-c10d-40b7-8dcb-35905f625165,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+12d60e0a-9543-4d43-b339-f3bb582e04fd,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+0f15bee7-4b2e-4800-86ed-ad1721bcfacb,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+8dafb263-7eb6-4089-ab38-0f696bc21aaa,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+87cf62d7-4a0a-4dc0-8166-75305084e2c7,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+793a2d18-d991-4101-bf21-90f39375e9ca,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+f0e15132-c1a0-4039-b28c-d9029f5a87e2,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+da817602-286a-46d9-839f-f37edce1a09d,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+b68f93d4-6526-4e35-88f3-9eb1eb4beeb9,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+dce3b431-b806-43c5-a452-78429b3affd8,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+f65917f6-b1a1-4cf8-8027-ca20183b37f5,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+d6aac98c-7e5f-47c8-94ba-004e68f8d865,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+d252ebea-5e6b-448c-bc90-2201c16b2eb1,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+6bd82ad0-4472-4dd6-8042-81a3e389f3e2,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+7940c0b9-9f4c-4135-8801-42a64b0f4091,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+9a31ad98-843d-459c-81c2-3f8ef417b2f8,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+0c66125c-b1e0-4053-a14b-cd1a182165ba,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+18349dc0-de7c-451c-bbcf-734d31b83f48,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+2b63a20b-d86b-479c-b00d-447fdabc9102,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+d876b205-f823-4274-9a6d-49af0c204f4c,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+d4889348-80cd-4778-a608-b7ee0810ef0e,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+1f853bc2-5271-4c38-a542-dbc935095057,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+7c42ff3d-da25-4e2e-a617-468fb4799751,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+f8582882-c565-4396-8c8a-7a5ed3394547,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+9c46e9cd-fc53-4a90-a2a3-3a6ea6b59cca,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+82eace5a-99a2-4db1-874f-a24e63e65579,Day 1 - DC1 -> multiple targets (invoke_wmi),Lateral movement
+3e584a39-85da-4ea0-bb53-91ffd0a5bc20,Flows from malicious processes,Other
+81cadf6b-dbc1-4959-9997-a0060838f1eb,Flows from malicious processes,Other
+ab99235b-39e5-4dd4-a54a-a9366861690d,Day 2 - SysClient0501 -> DC1 (unknown method),Lateral movement
+a7115b67-1fc4-44d6-acf0-9f59b2ab6425,Day 2 - SysClient0501 -> DC1 (unknown method),Lateral movement
+974d7364-6de0-4347-b227-939025eab7fd,Day 2 - SysClient0501 -> DC1 (unknown method),Lateral movement
+71034349-da04-42f5-a928-78e53e61afb1,Day 2 - SysClient0501 -> DC1 (unknown method),Lateral movement
+d281a0af-e347-43ac-97f6-2eba8efa52d1,Day 2 - SysClient0501 -> DC1 (unknown method),Lateral movement
+1646d8c4-69f5-408e-b526-0e19f9d96e88,Day 2 - SysClient0501 -> DC1 (unknown method),Lateral movement
+59da2593-25f0-4118-a0b6-27463a311e40,Day 2 - SysClient0501 -> DC1 (unknown method),Lateral movement
+f875a922-50fe-4c7d-a323-baff5c899099,Day 2 - SysClient0501 -> DC1 (unknown method),Lateral movement
+d98b5809-3c86-46d7-8aef-1055c5851cae,Day 2 - SysClient0501 -> DC1 (unknown method),Lateral movement
+fe10ae01-bfed-4a75-b3ee-87bf5dcb8d84,Day 2 - DC1 -> SysClient0501 (failed WMI),Lateral movement
+983915b9-3c3c-4c8f-acea-a0980676f4bf,Day 2 - DC1 -> SysClient0501 (failed WMI),Lateral movement
+bd801f9b-d803-4097-8928-96eae461fd3a,Day 2 - DC1 -> SysClient0501 (failed WMI),Lateral movement
+32a386d7-85cb-4020-b8a2-3a34c7a2c5a4,Day 2 - DC1 -> SysClient0501 (failed WMI),Lateral movement
+6467d766-ee92-44ea-8a1d-026024b75f3a,Day 2 - DC1 -> SysClient0502 (failed WMI),Lateral movement
+31b280b4-8ec1-465f-acc5-a481f37e26c3,Day 2 - DC1 -> SysClient0502 (failed WMI),Lateral movement
+1107a9af-634c-4e43-84ec-53605d09bf16,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+51d773bc-4769-4f5b-9828-01c0feba33ea,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+06b2ad34-7c15-4fc9-a9a6-5689d3620789,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+8733aae7-7a19-4e3f-824a-6387a5c3b792,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+083500c4-62c9-4a91-b712-1593a39697b8,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+1ef2354c-6ccf-402e-91db-e9094016b931,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+16c3fdf1-74a3-4647-acad-053ddc45a8c2,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+c665b0d0-88d9-4e5e-be8c-0c985d7d3018,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+eb6e58a7-c0d6-4209-a69e-ac0405290ed3,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+3834892a-1bab-4369-b02f-f18c3d05e51a,Day 2 - DC1 -> SysClient0501 (WMI),Lateral movement
+534681ec-f978-4351-aa3d-1e209a116af4,Day 2 - SysClient0501 -> SysClient0974 (RDP),Lateral movement
+faabb7e7-2316-4869-a085-c61573d6130f,Day 2 - SysClient0501 -> SysClient0974 (RDP),Lateral movement
+2070466c-73bf-4393-aa09-a8fdccac78a9,Day 2 - SysClient0974 -> SysClient0005 (RDP),Lateral movement
+a7e061a1-d6ce-4432-b18d-f47ba2438db2,Day 2 - SysClient0974 -> SysClient0005 (RDP),Lateral movement
+fe18a9de-83dd-42a2-aaec-8d09d926ec4e,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+843dd1c8-c1bc-4675-93c9-d0bfad1463dd,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+15217049-7fac-4d9c-a8ac-d1d31fa7f063,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+ec6e3bac-d048-48be-8d71-b40741500a73,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+11f707a4-d17b-4ac6-b4a4-7b52c7559d6b,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+d66c3d60-d4cd-4ba2-885c-0d1ae9cc5fee,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+e8dde3ec-6991-408b-855a-5f0b5dee7361,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+67720da5-dd8d-4d3a-bf64-c80b80c0e81e,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+5e2e670d-faf3-4468-89f8-d7bd82f17a2b,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+1088173c-9525-4149-b468-203c460f99d8,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+f88839a7-1163-40b8-af4e-fa84e42e8231,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+4f0cb653-9bfb-493a-97d8-a7271a34a6d7,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+3a6390b1-e739-4540-82a2-68feddc145e9,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+3b0a129a-c0ba-4ea8-84b7-4901713ca32c,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+2e96a8f2-288f-406f-a56f-e966252eb921,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+400f4bff-93cc-4fc5-8f71-0463d6b93b54,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+0afb3903-f857-466e-96ec-579c7803844b,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+a545edb3-fac8-4d1c-a257-0802f881d4cf,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+490ce091-cf95-43ff-878b-1ffc252e82b9,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+d758f190-1a71-4d2b-a036-e802bb0b1f05,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+23e8329d-2ede-45b6-b645-11c3c47df1a3,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+18b3d03a-5864-4732-88eb-8974ec8bd74e,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+bae43026-2d2a-41b4-b0e3-3dc55a811099,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+852e28ba-033f-4909-9324-1f26a7c90189,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+71f60cbe-f3e9-4c23-a30e-42c1c7a102d8,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+608b4a97-2f34-4e79-8fbb-b0d431258d9b,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+513dda17-3e58-4635-b655-4ba30cf11ac8,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+88940a87-090c-47c1-ba68-0c9a1022546b,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+31796750-57cd-44f8-8dc6-278e9ecb223c,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+127ff5c2-9c1b-4d68-ba0d-9de84cd633d2,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+c7d5d0f8-d046-44f2-9155-81c1c812fd90,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+a00a6a79-022d-46a6-9368-ae5d5b4adda8,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+4063d64f-3687-4ce8-aeee-19fc81cc45d7,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+9bbaa7c8-1b87-4f3a-a850-b4d4ace83ab9,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+03dde471-8344-4e3e-b98c-1e5072d19974,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+69151884-53ea-4a9d-82e9-bf93824c8f02,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+1a47d626-3bde-4a11-991b-922bf716bcc6,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+23d2ee1c-730e-4e13-bd0f-d2a280154313,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+655ea3ee-269a-4cc7-86c8-d28f19b7234d,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+a2f44360-b2eb-4dc6-be6f-3d8c8f8b8cd9,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+0b935c60-a5f2-4a10-b248-9e3b126e8f98,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+625d72c9-d371-48ae-89ea-b45a8e4a6b92,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+c1b4954c-6e60-4193-bf42-5bb5e0f90f10,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+7aac184a-1730-4611-905c-110c07dd703a,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+b85f29d2-f312-4853-9cf0-4f1b7241a32b,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+06c0cbc4-582f-4f5d-9f14-9cf6dd17bddc,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+73d52ab0-1ed9-439b-b8c5-0b40307d00d3,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+0ced0265-5b89-4355-971d-0d67c259b53e,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+19d0a4f5-90e8-47f7-823c-dff3fe98596d,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+3265effd-47e4-4bd6-8727-41d2fd84a0aa,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+e30bbaef-fab9-4ee3-bd52-3d0170873c3b,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+f671ec89-a16f-4dd7-afc2-71d74de00ee8,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+1b26962e-0b16-413e-8563-648057718b09,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+970d35c9-bf85-4da4-8e22-23c7ad6ce7b5,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+ce44f687-064e-4260-8266-4eba70c7061e,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+4a12412b-55d0-43c6-8169-390e8874847d,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+c60a46df-5586-4f50-8da6-c4e0def50a24,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+499fc2ae-cc74-4e0f-a0ac-5fdbb6a8ae9b,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+26d78bdc-dafd-489c-959c-147bef6df303,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+5e97efc0-2824-4163-bfeb-c0141d41b926,Day 2 - DC1 -> multiple hosts (invoke_wmi),Lateral movement
+28280a30-0154-4184-8327-b81ca256dace,Flows from malicious processes,Other
+5e44672d-ead1-41c7-bad0-c95b3c1e1bcc,Flows from malicious processes,Other
+327ff315-806f-4756-b051-7a2013ffe6de,Flows from malicious processes,Other
+ca684822-e779-4dd1-85ca-e7955bdf1f17,Flows from malicious processes,Other
+9820a0db-e561-4991-b748-23488dddf3d5,Flows from malicious processes,Other
+669d56a4-3b64-483f-93ab-bb4ce10a8fa4,Flows from malicious processes,Other
+dd026e9c-0d88-415b-b146-04471c1706ab,Flows from malicious processes,Other
+f0e655ef-5b7a-45c0-8657-1a16c7546de0,Flows from malicious processes,Other
+74055073-0a24-4a8b-ae2d-389508adf2ec,Flows from malicious processes,Other
+1cb4fc70-8060-4ada-82cd-25adc09cbffe,Flows from malicious processes,Other
+33d096f9-18f9-467f-9571-2680b1db6b20,Flows from malicious processes,Other
+df7dd86b-d7af-41b1-8eba-835fb930ee5f,Flows from malicious processes,Other
+1e774f74-b0d9-4e99-8e72-5b2df8b1c5f5,Flows from malicious processes,Other
+6d272cdd-2019-4bf4-b4ef-05219683f452,Flows from malicious processes,Other
+5d3259d3-cdcc-42a3-aad3-ef82e5edae61,Flows from malicious processes,Other
+7bb2bc30-2db4-4452-8402-0a8632fe46f2,Flows from malicious processes,Other
+e39cf94c-f044-49c1-84e0-ea8c49613421,Flows from malicious processes,Other
+80dcd722-ebd2-48e5-b7db-724dda3d1ca2,Flows from malicious processes,Other
+43c99f5c-48a8-44f0-be7e-f5bc645d0256,Flows from malicious processes,Other
+dea4868d-9b2e-479f-b0c0-2d011a26280a,Flows from malicious processes,Other
+3a3f134d-73d2-4e2c-8a02-c39b78e0a7dd,Flows from malicious processes,Other
+f3756e2b-dcc8-4e0d-b590-e9fa04d44ca9,Flows from malicious processes,Other
+7cc4fc12-bdb3-40b1-8629-a023b5acb97e,Flows from malicious processes,Other
+7e544f62-82f5-4407-aaa2-6cea97601525,Flows from malicious processes,Other
+181425b5-1a5c-4e1a-8237-d167a421d428,Flows from malicious processes,Other
+a45c1cef-b78b-4d5b-b989-aa528a3da5c6,Flows from malicious processes,Other
+10e975d2-a16a-4c41-a3a5-def8a9d4e7bf,Flows from malicious processes,Other
+60d56cab-1042-45ae-979a-bb118718ba0a,Flows from malicious processes,Other
+597ecc6d-6d72-40fe-ae07-cd098e632700,Flows from malicious processes,Other
+a7b25b93-1d2b-41d4-b295-31350d415e54,Flows from malicious processes,Other
+e112286c-9105-4226-8ae6-b08ea02d0792,Flows from malicious processes,Other
+00e092a0-ed38-4f3e-8348-b79367ace7bd,Flows from malicious processes,Other
+41bbaea1-ae28-4c91-9274-382bcfcceff5,Flows from malicious processes,Other
+3c24fa66-929d-49c1-a2e1-3d597e13db91,Flows from malicious processes,Other
+685e5f14-b10b-4ce3-88c3-f9b5a61e1ab2,Flows from malicious processes,Other
+db57a6cd-9e45-40ee-910a-3209e0a8956b,Flows from malicious processes,Other
+b3826025-2dcd-4d56-9001-1394d7bd2bdc,Flows from malicious processes,Other
+f8cfecbf-dccf-4951-a13f-e88962c9b916,Flows from malicious processes,Other
+855b703c-471f-4ef1-9e6b-a8f38db6059a,Flows from malicious processes,Other
+434c2aa8-4f21-43f0-9e7d-e9a63723547d,Flows from malicious processes,Other
+4c6d84be-8f0e-4b51-8747-94e9c6bcd971,Flows from malicious processes,Other
+4dccb8cf-afd6-48fd-9ab4-887dea836427,Flows from malicious processes,Other
+0ae484b5-2f06-447a-bf60-44c5216efed5,Flows from malicious processes,Other
+cd8ffeb9-4f04-4bfe-8a10-965a636563ec,Flows from malicious processes,Other
+af991638-4619-4d9f-8f76-19aac92bf097,Flows from malicious processes,Other
+55db504a-01f2-4b23-8d4b-439efb8f5d63,Flows from malicious processes,Other
+12dfaeaa-1a58-4997-9154-93effe37d931,Flows from malicious processes,Other
+55e16b4b-e82e-427a-866a-16beb6277be6,Flows from malicious processes,Other
+a3f0213d-7f9b-42bd-ab8a-ce64c7b3cea2,Flows from malicious processes,Other
+c5bd2efd-dbd7-473e-b110-d874de64424b,Flows from malicious processes,Other
+27c2538d-b08b-4cbd-b75a-a1816d4eba7c,Flows from malicious processes,Other
+8de464cb-9804-4f5e-a94e-6ab6b0add1d8,Flows from malicious processes,Other
+a06c52f1-d31c-43fd-bbcc-6835de1fd015,Flows from malicious processes,Other
+eb758e18-4d5f-471a-8afc-1ba936a986c2,Flows from malicious processes,Other
+6840f7b2-dd81-4099-8eb6-8c18bf858558,Flows from malicious processes,Other
+26bf834d-cab9-45ec-ab6c-22c4e94cd778,Flows from malicious processes,Other
+8408e41e-2b5a-48f3-8b64-0aaf345ebdb3,Flows from malicious processes,Other
+3670b06f-d3e1-4ee1-b986-5bde8197cdf4,Flows from malicious processes,Other
+cff7aa8a-de0e-4641-938f-30354af386f0,Flows from malicious processes,Other
+c7d8a018-963a-4a35-8d11-306ab0e0e3ad,Flows from malicious processes,Other
+729d6eca-ce21-4e4c-868f-3b494a8dd5f9,Flows from malicious processes,Other
+25cd7e0e-ff6a-4203-b00e-3f42a93137a9,Flows from malicious processes,Other
+422e722b-6f8c-430f-b368-7a243513a9fc,Flows from malicious processes,Other
+f59e6bc2-4b2a-4b2d-a6c6-fca9412d33d5,Flows from malicious processes,Other
+21c3b59c-f874-4192-a2ca-311e3efb6a54,Flows from malicious processes,Other
+cbd27632-ad20-4b90-9d8d-75b6f94c0704,Flows from malicious processes,Other
+908b82e0-6b74-4d42-a2bc-eef5512564b9,Flows from malicious processes,Other
+7c34ce4d-36d1-4575-8be7-3de78c0ad2ec,Flows from malicious processes,Other
+4decb08b-45bb-4669-ab22-6bbb532fd740,Flows from malicious processes,Other
+79e1259b-2a56-450c-ae83-f1fcd532780b,Flows from malicious processes,Other
+1bfcfce0-706b-41f2-9ca9-b7f3dfe9ef9f,Flows from malicious processes,Other
+8a2d1b22-8c0b-4f84-8698-49c300ce7c2e,Flows from malicious processes,Other
+74553a75-14d5-41d3-b04a-cb8789b6769a,Flows from malicious processes,Other
+c9fc2776-9cca-4c21-8b92-c48ecd058f5e,Flows from malicious processes,Other
+c41eef67-77ff-406a-9d4f-aa6ae7c88cbe,Flows from malicious processes,Other
+de78d96b-2a13-4d4c-b761-5b2044e82568,Flows from malicious processes,Other
+354f5c24-80a7-4e00-a199-e2e63f5c4d65,Flows from malicious processes,Other
+ada489a0-aa7f-41b6-8d2b-df0adf596421,Flows from malicious processes,Other
+3c26b6c2-60be-4856-8505-975574a86cc9,Flows from malicious processes,Other
+f9bb389c-d974-4670-9d6a-4d96970cbc94,Flows from malicious processes,Other
+70103060-ff44-49da-abff-8575024a2600,Flows from malicious processes,Other
+5d48f044-2681-4b16-aa73-c3a5c1be4db7,Flows from malicious processes,Other
+e44471d5-e0e5-4254-88f4-57edce45bd2e,Flows from malicious processes,Other
+390633aa-4152-4ba1-b7f5-a56aa583f73e,Flows from malicious processes,Other
+19fd24db-f9c7-4809-b06f-0ed75666304d,Flows from malicious processes,Other
+601ed9ae-390d-4b99-a6f5-19afc24ece67,Flows from malicious processes,Other
+8472206c-f1f2-40bd-8e0c-fd8c7125ce42,Flows from malicious processes,Other
+dfcd0ebf-ff87-4f2e-b808-c0fa5ea492d6,Flows from malicious processes,Other
+c5bfdae8-7c29-4f9a-b56c-4bf4372f8be4,Flows from malicious processes,Other
+8ef43787-b540-4513-82ef-f1bcd088209c,Flows from malicious processes,Other
+2a32f983-915a-4707-a2e6-d03f0fd58d70,Flows from malicious processes,Other
+1ee534e0-b88b-4fb7-965d-d55050a9cc76,Flows from malicious processes,Other
+181d4bee-2300-4198-bc9b-50239548dfc5,Flows from malicious processes,Other
+3abe9d48-3d23-4626-a001-1d6bb18e4dcf,Flows from malicious processes,Other
+1e3ee55b-bae0-420f-826c-fdef760af0d0,Flows from malicious processes,Other
+ee614ce6-310e-4717-9251-54623a74609f,Flows from malicious processes,Other
+629b13e2-936a-43d9-941b-df55e76b86e2,Flows from malicious processes,Other
+40b074f0-8c20-488f-9aa3-e8f86d4a59cf,Flows from malicious processes,Other
+53839b7b-09f1-49fd-aa8e-28aa92cfd1a1,Flows from malicious processes,Other
+9f94888a-4b2f-47e8-aa18-deb04dc95962,Flows from malicious processes,Other
+ed819d6a-52f9-4319-aa24-c62d8d84fce8,Flows from malicious processes,Other
+98337698-1f32-43a6-96a3-d8e283873591,Flows from malicious processes,Other
+0a702909-8089-4271-9713-03785ccfecfe,Flows from malicious processes,Other
+ead2d438-0cb3-4f80-88d3-94c98acc6499,Flows from malicious processes,Other
+da1af20f-f4c5-4e1f-93d5-fa4231a1b805,Flows from malicious processes,Other
+c6f333a6-cf2f-4030-b27e-93ac782e5e7f,Flows from malicious processes,Other
+e5e8cedc-7784-495a-bc54-a3ca91fa8a29,Flows from malicious processes,Other
+fb1f0aca-a0ca-4488-ae89-3a3468b66830,Flows from malicious processes,Other
+c00c72d5-21ba-4d59-8310-b6c157e22c77,Flows from malicious processes,Other
+6edc629b-e170-4f3c-aa14-95814f29714c,Flows from malicious processes,Other
+968bae3c-433e-4cd0-a35c-ac799070a21d,Flows from malicious processes,Other
+0573004b-cfe4-430f-930c-a2a4b21f7fe5,Flows from malicious processes,Other
+00f13647-3ec9-42cf-8fdf-c680a733674f,Flows from malicious processes,Other
+84630acf-1d68-4d91-a639-30a3497c201b,Flows from malicious processes,Other
+e31eac21-693d-4bb5-932d-187d8a6bae6a,Flows from malicious processes,Other
+c59c1d8b-5f62-4d02-95c3-ca588628f696,Flows from malicious processes,Other
+8f7f16b3-9e40-44af-856c-0cdb03123f03,Flows from malicious processes,Other
+8664e2ae-e5bd-4722-b7c2-6016a7ea9dd2,Flows from malicious processes,Other
+80ac6924-7a7d-4beb-988b-04839bf2cacf,Flows from malicious processes,Other
+4fff8bc4-8faa-4ce1-b3af-be3d02d7de0a,Flows from malicious processes,Other
+a47a2368-71c6-4485-b785-ae395b88cd27,Flows from malicious processes,Other
+62f84c13-5c59-4011-93ee-15cafa766533,Flows from malicious processes,Other
+f5be51ae-4d5a-4668-b144-9c2299fe8028,Flows from malicious processes,Other
+7f5d551a-00df-420b-b8c2-d8d5fa108e07,Flows from malicious processes,Other
+e55196b7-9ca6-432d-8b1a-b9c34300dd3b,Flows from malicious processes,Other
+a6c4ceb5-4c16-424c-9abc-ffeb96c9b4f8,Flows from malicious processes,Other
+0995d57c-189f-4012-98be-c81da651f256,Flows from malicious processes,Other
+42c86316-dfbd-4987-8e72-9cb4152336d9,Flows from malicious processes,Other
+b0416086-2495-4a18-8012-6e8f823a2be9,Flows from malicious processes,Other
+e0d74e8c-4baa-4018-8b8c-c2510288b44b,Flows from malicious processes,Other
+8f2c279b-96be-44ef-9354-c575bc9efc14,Flows from malicious processes,Other
+bdcbecb6-f297-49b4-872b-20d9dd44ad9b,Flows from malicious processes,Other
+89aea116-c617-42e2-ac1b-014a079808f0,Flows from malicious processes,Other
+6262bb4f-f7ec-4fdb-b0a3-1f156492442f,Flows from malicious processes,Other
+481aa13d-f224-4fd3-a168-25eb3018913d,Flows from malicious processes,Other
+00a2a977-c510-47ea-b7e1-8c0bb2aa3302,Flows from malicious processes,Other
+9454221a-ad14-4106-8b13-674425ea200b,Flows from malicious processes,Other
+a733df76-5d9c-4272-8696-fd2fbe14911a,Flows from malicious processes,Other
+c85d250f-c13d-4e37-8529-f7dfd1cf3637,Flows from malicious processes,Other
+4c603f18-a348-4e23-8f38-b81b1d542471,Flows from malicious processes,Other
+90cd3b67-7656-46ec-81a1-779a82387edf,Flows from malicious processes,Other
+7b867a51-0a9b-49be-920b-51d14cd87b4c,Flows from malicious processes,Other
+2f7f6319-4f3f-4f4d-930e-461ca826a019,Flows from malicious processes,Other
+54d5573d-9ce6-473d-a831-4353826697f9,Flows from malicious processes,Other
+a493a838-7a1b-42a4-98f9-65d13b78c9d5,Flows from malicious processes,Other
+b39a4fa7-d649-407e-b9ba-44f7bb6a81b1,Flows from malicious processes,Other
+31fd7bba-017d-4006-9775-f485ae9247cb,Flows from malicious processes,Other
+5651258f-f0c2-4539-a54e-257857d9f2fa,Flows from malicious processes,Other
+02db2843-87d7-44c4-9105-0bd62398980f,Flows from malicious processes,Other
+add6c417-8908-460e-bb67-b621fac4d5e0,Flows from malicious processes,Other
+49c93242-448f-4765-8ca4-51b7fa37fc68,Flows from malicious processes,Other
+78e922f3-2f45-4faf-b799-464bf991071d,Flows from malicious processes,Other
+a9baadbd-32f7-4018-8d3c-73eb0da24461,Flows from malicious processes,Other
+fc08ad2f-984f-4b6a-a3fb-9b6ae698bb1b,Flows from malicious processes,Other
+1ab203f8-d888-403c-8f26-8687945d2d2a,Flows from malicious processes,Other
+dac05dea-da02-4e31-b1a5-a4974f2bab84,Flows from malicious processes,Other
+101ae9fd-6622-424a-9a91-130b0f418077,Flows from malicious processes,Other
+28e27f82-6588-404d-ab15-5de4efc45c0f,Flows from malicious processes,Other
+9bc7ebc3-71bf-4ee7-b3d3-8b611aab3f94,Flows from malicious processes,Other
+99511407-7eb7-434f-b43d-951109179020,Flows from malicious processes,Other
+09f31b12-81ce-4aac-9fc8-efed8ada1891,Flows from malicious processes,Other
+7bf38e37-f9c9-4f28-9998-1c65649eae12,Flows from malicious processes,Other
+7a6c18f0-900f-4500-9101-6ddb830616a7,Flows from malicious processes,Other
+654e365e-29ea-48d7-b93e-ee574261cd52,Flows from malicious processes,Other
+8e64dbaa-7cd5-46d5-8d3a-45c6bda212d0,Flows from malicious processes,Other
+612a76f7-6c10-4b43-baa5-69b654c5a7a2,Flows from malicious processes,Other
+af3db265-8b83-4f36-8f22-4a199f2a2529,Flows from malicious processes,Other
+836ec2ab-6c9a-457b-97f6-e9dd20b84586,Flows from malicious processes,Other
+a2bdcfe2-70dc-4694-8605-57e8180c3b70,Flows from malicious processes,Other
+9e1a885e-6b0c-43c8-abd2-5121a23171d0,Flows from malicious processes,Other
+cea5ce5d-4a44-49dc-bf56-88cddde15f3a,Flows from malicious processes,Other
+c2285c7f-5584-435b-a4cb-2f05b58a6632,Flows from malicious processes,Other
+ddd0ffbc-2573-42bb-bc99-0654eb277b29,Flows from malicious processes,Other
+dfe6df3d-d46a-4563-84fd-fa3e9e2178a9,Flows from malicious processes,Other
+4d66db16-0a8f-4143-8ea1-2e68f7f3dde0,Flows from malicious processes,Other
+a4b5c9da-ec43-47cb-84b6-e3bb139d31a7,Flows from malicious processes,Other
+2d29d584-ba64-4f80-b2f4-396373ca8ca4,Flows from malicious processes,Other
+5551cbad-64a0-43aa-b7a6-d09a7d220676,Flows from malicious processes,Other
+e9f3bd38-5a2d-4a29-9804-970b91d65f67,Flows from malicious processes,Other
+6f2733f5-e985-482a-875a-9c51568cba8b,Flows from malicious processes,Other
+5b0e0ccd-3bd1-4afb-9cc8-31b4535e2175,Flows from malicious processes,Other
+6f956aed-07a7-42dc-a31d-938e2df041a6,Flows from malicious processes,Other
+558cd98d-77a4-4b88-93c5-f93aa4b842bc,Flows from malicious processes,Other
+f30b172e-a25b-480f-be7f-461335f84faa,Flows from malicious processes,Other
+9fb7006b-7168-45c5-be7a-3d1fb2735c88,Flows from malicious processes,Other
+d2e509cb-9131-40ad-a48e-ca7d0be7098f,Flows from malicious processes,Other
+875b6ba5-0312-4ad7-8536-ff1240247031,Flows from malicious processes,Other
+01bfb0b1-72a0-40e2-89b1-5a08d4a79629,Flows from malicious processes,Other
+95969325-f8f2-4c65-846d-e3ab30d934a6,Flows from malicious processes,Other
+0e0c3586-e4a3-43c1-8be9-3ad6b0a77e37,Flows from malicious processes,Other
+dc25b948-e0d7-45b5-899f-e0ec56b0a61f,Flows from malicious processes,Other
+ff74bb8f-3622-49d9-84b5-7a860afe0883,Flows from malicious processes,Other
+53407fdb-92f3-4119-a232-dcb9c5e29721,Flows from malicious processes,Other
+579746fd-c2cf-4e60-a123-d14596ee255a,Flows from malicious processes,Other
+6ed19508-059f-4a1c-8f7d-4f24ca202f06,Flows from malicious processes,Other
+a681d958-9c1a-4459-8e53-da8eae421fc1,Flows from malicious processes,Other
+765ed9b7-1fd2-487a-b3a0-e1fc12c1fa19,Flows from malicious processes,Other
+c0755f07-2a28-4e3a-8c24-0aa35daa0bb2,Flows from malicious processes,Other
+53b6b91d-bd2a-41c1-976a-12003c6b787d,Flows from malicious processes,Other
+b859196f-f744-4f49-b18b-7d72b481cbdb,Flows from malicious processes,Other
+9487cf8f-ea31-4624-9dbe-b068b7c71ca1,Flows from malicious processes,Other
+2c5ccff2-9a02-4009-b2a7-bd80d5ea710a,Flows from malicious processes,Other
+fb9917b7-7aa7-495c-bc18-52d007f0aa4e,Flows from malicious processes,Other
+9e135f7a-89dc-4cf4-809a-709b6eddb532,Flows from malicious processes,Other
+c4efee08-fa99-44c6-ab41-7596bdc10bda,Flows from malicious processes,Other
+a869b55d-c51c-4c64-bd86-0c027707cbd7,Flows from malicious processes,Other
+929d0da1-2059-4286-b530-c3f1e87a7f45,Flows from malicious processes,Other
+4afda2bc-3473-40ec-ba12-848d403b7608,Flows from malicious processes,Other
+94a5216e-a2ff-42b3-80d0-14b534397f66,Flows from malicious processes,Other
+17e1d2ab-fb86-4243-b651-420b2d38957d,Flows from malicious processes,Other
+a01f1a0a-d73c-479e-beee-c3a202d298ca,Flows from malicious processes,Other
+592a2d31-7bba-431f-b0b2-57346483bc33,Flows from malicious processes,Other
+3b2704b5-ec4f-4d2f-b20b-47ab0cc95fa0,Flows from malicious processes,Other
+db597339-10af-42c8-8175-9040847f127e,Flows from malicious processes,Other
+81dbbe19-c7c7-430d-bc69-9e142b9ec960,Flows from malicious processes,Other
+fd8684b1-33f7-4955-a318-8dffe6825e69,Flows from malicious processes,Other
+f68161f1-8666-4eda-aa53-2d8ff709e8c5,Flows from malicious processes,Other
+838621dc-3a9d-41f2-b7d0-540dedbd4b77,Flows from malicious processes,Other
+eae27aca-2778-48db-88db-6e7ebc6e8688,Flows from malicious processes,Other
+6ff0d435-f741-478e-9a8c-1c748adb9db5,Flows from malicious processes,Other
+0396513d-8156-4d77-87fa-4f913e516f28,Flows from malicious processes,Other
+162a389c-dd38-42f4-b9aa-63b2b380d2e5,Flows from malicious processes,Other
+6f693bf7-22eb-4e6f-971a-f6fd3fcdd267,Flows from malicious processes,Other
+b4895265-0e95-48cb-898e-9ac8bd4184be,Flows from malicious processes,Other
+16fa51e1-81f6-4c7a-822e-5639c16dc5f6,Flows from malicious processes,Other
+04ee158a-f5a7-4a6a-80c4-1debeeaa87d5,Flows from malicious processes,Other
+1565af7a-5cd9-467a-b3e9-6b58b975ae62,Flows from malicious processes,Other
+4b7849fe-9c3d-4302-b6f1-30e8e3b48835,Flows from malicious processes,Other
+d08c6de6-6105-4a1c-9a2d-fc69378a60ca,Flows from malicious processes,Other
+88ca808c-85d5-49ea-ae6a-c63aac0a18b4,Flows from malicious processes,Other
+bc512878-7575-4359-a6d9-9e84bcaf82de,Flows from malicious processes,Other
+e00e64a4-977b-4970-9eeb-1fe07808277d,Flows from malicious processes,Other
+5007dbde-23cb-48c1-aa71-8bbd72ee5a4c,Flows from malicious processes,Other
+31d1fc22-f5b7-4a47-8893-44d249184ab5,Flows from malicious processes,Other
+fe5de486-6500-49b4-9c4a-89a84303d5a6,Flows from malicious processes,Other
+edc415c4-bdd2-44ec-948e-8fb158eb3271,Flows from malicious processes,Other
+2e498142-4efc-4a98-9041-8f9b0b001db8,Flows from malicious processes,Other
+bf60d6ec-6ded-4fc3-9866-5e5c4ae20a1a,Flows from malicious processes,Other
+fd64acdb-9d57-4ea9-8473-01f1a2f108e6,Flows from malicious processes,Other
+29929713-1525-4958-a4c1-7860aa99c2f5,Flows from malicious processes,Other
+7367e54f-d520-4f72-a325-f0d01d01555d,Flows from malicious processes,Other
+405047a6-5bfc-4dd3-a1d8-2e9e739cfd50,Flows from malicious processes,Other
+e77df278-f65f-491e-a243-df0c181286f1,Flows from malicious processes,Other
+d57a1b23-70dc-4b39-a558-8b82c52c87c5,Flows from malicious processes,Other
+6a84a4f5-6365-49f1-8dc0-937225e2008d,Flows from malicious processes,Other
+f69d465d-f982-4806-ba1e-110add32766a,Flows from malicious processes,Other
+35e522f3-4da4-4bd3-9734-945c46ff9044,Flows from malicious processes,Other
+2f0330bd-376c-483f-8cba-6c920252a87d,Flows from malicious processes,Other
+619efcf4-9264-4ee5-a889-7c6cdc4bec6e,Flows from malicious processes,Other
+0f586f25-cb8a-4ec0-9ed1-6b7c2e0866ec,Flows from malicious processes,Other
+ae5ea608-ff93-4c4a-b7a7-08ac308b7a99,Flows from malicious processes,Other
+65d96bc2-f914-44e7-8330-cba1990bebd4,Flows from malicious processes,Other
+f02127f1-792f-4863-9dbe-0d751d50f6af,Flows from malicious processes,Other
+f5b23412-e3e2-47f0-97e5-bc800d7c5a0d,Flows from malicious processes,Other
+87d69397-a0b7-4043-bc9f-c65d8c3b83e7,Flows from malicious processes,Other
+ec8da017-7630-4b56-820d-2d99cf82edc4,Flows from malicious processes,Other
+5c768a06-3aed-4313-894d-90e04db08cec,Flows from malicious processes,Other
+08c0fe69-86c2-4616-9989-ac1fa6039a8a,Flows from malicious processes,Other
+c4e6fe56-a0d8-434a-9dad-b9776e1f27e8,Flows from malicious processes,Other
+c586b868-8b1f-40be-9dc7-30abf856f572,Flows from malicious processes,Other
+e3d5d137-d898-41d3-9a2b-c6fc661457df,Flows from malicious processes,Other
+1278b055-957b-4952-ab88-477ef35ce9b8,Flows from malicious processes,Other
+80d6c1a6-80f8-49ff-b8d2-0c84eb4c53a8,Flows from malicious processes,Other
+3d3c4c80-ffe0-4910-b743-1b1d014bd3c8,Flows from malicious processes,Other
+3db3b099-aad9-4325-a962-4cd029adfea5,Flows from malicious processes,Other
+7bfc9589-00ae-49bb-b6d2-3abae419afbb,Flows from malicious processes,Other
+9750a67f-7dca-4c80-b36c-b155a00f52c0,Flows from malicious processes,Other
+e1b51722-fdfb-4226-9d7f-17a63bf3dbd1,Flows from malicious processes,Other
+b8ea09ce-2f10-4f86-aafe-9d09ca8da702,Flows from malicious processes,Other
+86287e7c-122c-440c-8236-b6ef196e03b6,Flows from malicious processes,Other
+d3752248-461d-4bc9-9a73-9f3b04539bd1,Flows from malicious processes,Other
+34f9141a-497e-4b7e-b0f7-10b01adaa12c,Flows from malicious processes,Other
+c6775a12-0e7f-48f4-bd74-731557e9660c,Flows from malicious processes,Other
+263864ba-e783-4ffe-8664-1e9fb138d68d,Flows from malicious processes,Other
+94114632-3769-4fb0-b9a5-c59d3972824b,Flows from malicious processes,Other
+124505c6-4318-4394-b9ba-76061521c7ba,Flows from malicious processes,Other
+e389d9c5-c750-48d3-bad9-9d598a23e15e,Flows from malicious processes,Other
+cf913091-bf4f-4850-81df-0425267a1722,Flows from malicious processes,Other
+da59aa16-209e-4fb8-87b1-71b591b0fa10,Flows from malicious processes,Other
+42af610c-0748-44d4-b3d5-d02835b174a9,Flows from malicious processes,Other
+abad891c-de8e-46fa-82fb-62a1639861b1,Flows from malicious processes,Other
+2d45e359-5ef3-4dfe-9ad6-2f5d495aaa41,Flows from malicious processes,Other
+a8353672-f8c1-4907-b12b-417098ed71f7,Flows from malicious processes,Other
+2cbf4836-5fb3-4e43-9646-45b213431b53,Flows from malicious processes,Other
+f612deb8-3ae2-4862-9a78-7ad59159e9e9,Flows from malicious processes,Other
+fdf8b811-bacb-4975-8ed7-d42a40089aad,Flows from malicious processes,Other
+bdd88ca6-c088-4834-94b9-9aafe7265480,Flows from malicious processes,Other
+e82ca850-7019-4507-a1c7-2de5cfdb674a,Flows from malicious processes,Other
+d8341f6d-766a-4049-9a74-a44c3553e391,Flows from malicious processes,Other
+7579184e-9038-44b1-8251-a62fbfa9f0a7,Flows from malicious processes,Other
+5af2e641-35c9-4b19-836a-8d56084004e0,Flows from malicious processes,Other
+45c8b8dd-b8e3-486f-b947-5a682f727487,Flows from malicious processes,Other
+0f5406cb-4de3-49b0-80c3-056008ba6c0d,Flows from malicious processes,Other
+64c111b6-b0d2-4117-91ef-88fe7b072e01,Flows from malicious processes,Other
+e6184b08-82b4-4c73-bec5-895bb1604cd9,Flows from malicious processes,Other
+2e5ef816-063c-470a-8db6-4411a6daeb19,Flows from malicious processes,Other
+87f0e61c-9f71-4997-9291-8c7c764cfef9,Flows from malicious processes,Other
+99176870-a78a-4f7e-9703-43414dfa674f,Flows from malicious processes,Other
+7ce70a66-09c9-4fdd-8813-f05def1cb45a,Flows from malicious processes,Other
+60d065ea-482e-4859-8d44-215b696afec6,Flows from malicious processes,Other
+3dbd2fe8-edcb-44dc-98e4-695e6cea391a,Flows from malicious processes,Other
+901fae0a-2174-444b-a646-c10f7ccf115e,Flows from malicious processes,Other
+dae21610-f09e-474e-9170-78c4fa5761fc,Flows from malicious processes,Other
+1f7b9765-03aa-4ece-afda-9ee1559b0409,Flows from malicious processes,Other
+57116ca2-0117-444b-a0d7-2fca5a5f6f6b,Flows from malicious processes,Other
+a8a6a8f2-57ae-4163-a72c-f0aae1b9894e,Flows from malicious processes,Other
+b05c4d58-1291-496c-b610-483cc5b1c5cd,Flows from malicious processes,Other
+94958d36-6727-4f41-91e0-a6272a9074df,Flows from malicious processes,Other
+534ea7ab-d7f4-4f9a-8698-3c290143af30,Flows from malicious processes,Other
+c9872c60-2dbf-4a3f-bd83-15c4fecca94c,Flows from malicious processes,Other
+1494ba5a-20eb-4529-a8f3-fbf36b7b4c79,Flows from malicious processes,Other
+c894170e-533b-48b0-a955-cd846c397511,Flows from malicious processes,Other
+ea741d6a-ee5b-4603-96a0-6565c2b2bcb5,Flows from malicious processes,Other
+56ab6456-f42a-48b5-b677-46a8bb6a258d,Flows from malicious processes,Other
+17e0d5e3-53a7-448c-a9e7-404faa230da0,Flows from malicious processes,Other
+c1449088-0900-495c-8947-eff05fb9ebfd,Flows from malicious processes,Other
+ec85d51d-df6a-4827-9515-cdf9e6d4853b,Flows from malicious processes,Other
+b941fd5d-9452-4532-bde4-ec9cdf001ba2,Flows from malicious processes,Other
+ba84adb7-c80d-4d6a-8908-ca13234614a0,Flows from malicious processes,Other
+b8427d42-6490-4992-b01f-0cd015cfd67a,Flows from malicious processes,Other
+d0511430-3a17-4182-a6be-32561756fe57,Flows from malicious processes,Other
+576fe63a-a4d3-4efa-8550-41847e2026b0,Flows from malicious processes,Other
+76a1ca7c-dac1-47e0-bf59-9f98bad0a233,Flows from malicious processes,Other
+5d7898db-b004-4d24-acb5-a9ee5f6e001b,Flows from malicious processes,Other
+73be61bf-ec94-4549-8af9-aec9a7a2cb05,Flows from malicious processes,Other
+9b1ec439-4599-4937-a642-2c2e2f01ff20,Flows from malicious processes,Other
+190c8881-e04b-4c92-899c-788b3ea7c1de,Flows from malicious processes,Other
+6f4f90da-c2c3-4019-9be5-c9a0158f0348,Flows from malicious processes,Other
+7347260d-a5c6-4fc7-b40b-32c8e5f91230,Flows from malicious processes,Other
+96496007-a014-4b6b-b263-49b42a882881,Flows from malicious processes,Other
+9a9cf5c4-1895-4050-b087-c51250b451c3,Flows from malicious processes,Other
+c0ef29ba-c80f-4456-8134-9a070f4173f2,Flows from malicious processes,Other
+55daf4e0-7a5a-41a6-a176-b90886140f06,Flows from malicious processes,Other
+834e75f0-2ab9-4824-b18c-63cd4c790ef1,Flows from malicious processes,Other
+111499c7-afdd-4795-aa1c-a9175502fe4a,Flows from malicious processes,Other
+c0b60e8f-732f-4631-86e3-620576b4eaf2,Flows from malicious processes,Other
+afda3de5-89c4-40ae-8e89-9f7ec160dd91,Flows from malicious processes,Other
+978f53f5-2023-40ca-afa4-46381f9d1c34,Flows from malicious processes,Other
+35606e64-a574-4760-9268-38ef14acf641,Flows from malicious processes,Other
+4e71e343-aef5-4116-87de-40441c911598,Flows from malicious processes,Other
+16783eca-41a7-4d79-8a82-3ec102f940b9,Flows from malicious processes,Other
+46ab9f28-6f83-4802-8668-c22aeba99e1f,Flows from malicious processes,Other
+54bdd188-b5c8-42a9-b9ce-cba0d6dfd9c2,Flows from malicious processes,Other
+a55794b9-41c6-4441-aa87-415aa52b9cb4,Flows from malicious processes,Other
+f236fdaa-cf71-41de-afcd-616656cf21ab,Flows from malicious processes,Other
+c273871e-f729-409f-988d-8a26cd0200f5,Flows from malicious processes,Other
+0cbffa5d-088a-4da9-ac03-a872b637963f,Flows from malicious processes,Other
+ceba9929-5f3f-48dc-bdfb-a967f2c2ae16,Flows from malicious processes,Other
+d91e996c-5927-4b88-8849-87db0273b83a,Flows from malicious processes,Other
+6ae82ff3-e096-455b-b3c4-d84534e7f8a2,Flows from malicious processes,Other
+10ba7f02-211d-4e90-ab38-7d729bb82f57,Flows from malicious processes,Other
+135056c1-e25b-48be-8012-eff5d3b2440c,Flows from malicious processes,Other
+5f6f5abf-9a9e-4f19-98b4-436117387a45,Flows from malicious processes,Other
+d309d617-0082-4602-9f1a-870fd45a3618,Flows from malicious processes,Other
+8c48fec3-2474-4a6e-999a-fa7ea619a64d,Flows from malicious processes,Other
+481b031c-62d5-4204-a074-c24a3a499dc9,Flows from malicious processes,Other
+4e98436f-bb99-4605-81b6-c068fb686fcf,Flows from malicious processes,Other
+79dd8900-dfe1-4afc-8bd0-29d80763b08e,Flows from malicious processes,Other
+2593ab42-736d-4a6f-8f99-30e01d3033e3,Flows from malicious processes,Other
+1d2fee17-965b-4461-933b-3b590dc20b3e,Flows from malicious processes,Other
+a3d440f2-ca1c-422d-97e6-684da55a9fa0,Flows from malicious processes,Other
+b81d9df3-88e8-485e-9514-b11c094eb106,Flows from malicious processes,Other
+77e3e8a5-3f1b-4317-94d9-e6e8d78fb571,Flows from malicious processes,Other
+11ea4d4b-8b60-41fb-8bfb-68c23ab6126a,Flows from malicious processes,Other
+bb973c17-10e8-452b-81a7-3ad124a9aee3,Flows from malicious processes,Other
+560fa765-71cd-4bca-9369-c61c0bbf823a,Flows from malicious processes,Other
+01a10748-aacc-430a-8cf2-dd8847a7d98c,Flows from malicious processes,Other
+d3ed6e0d-4157-49d7-b933-e1a13cd67caf,Flows from malicious processes,Other
+40159758-e142-4c85-aa72-d8a06a9cfaff,Flows from malicious processes,Other
+4ed88576-851e-4f8c-a8d2-54dbcce0b142,Flows from malicious processes,Other
+5d006bef-4455-4477-9abf-09e3ffd59da2,Flows from malicious processes,Other
+d8dafcf2-d620-4b4d-9158-e5488024f3ef,Flows from malicious processes,Other
+9ba16af3-2eb2-4ffe-85d5-3a923fd1f0fe,Flows from malicious processes,Other
+0e3b4515-bd05-41b8-a5bf-b03c3bc0bb5c,Flows from malicious processes,Other
+8e27a64a-f08c-4fd1-93a3-1eb8f8e62a3c,Flows from malicious processes,Other
+279d629d-c51c-42e5-b4ac-9bb30840fe98,Flows from malicious processes,Other
+a4f7bfd4-adf3-426c-8c61-07352e1a9f40,Flows from malicious processes,Other
+3172a1bf-95c4-44ba-b221-a0f7a413be65,Flows from malicious processes,Other
+c17cd6f1-ee18-4533-9778-89b381bb1b99,Flows from malicious processes,Other
+39be0a05-2d39-4ded-86ce-38c95fafc4fc,Flows from malicious processes,Other
+7c45a411-ae28-43cc-88fc-8e8587a51e76,Flows from malicious processes,Other
+db97c6ac-28b9-4994-91db-f83452edc731,Flows from malicious processes,Other
+533fcb45-f12e-46bd-9231-e196458409c7,Flows from malicious processes,Other
+bce1f584-30ec-4442-a15d-dd792c4f6f97,Flows from malicious processes,Other
+71b015be-6b2c-4828-bd8e-8d2d835408e9,Flows from malicious processes,Other
+a752342a-133a-4135-94c1-73a1ffed0276,Flows from malicious processes,Other
+3522df0d-e83b-4510-b319-e46d01f15fc9,Flows from malicious processes,Other
+e51334a9-b627-4c98-8783-60b5129dba37,Flows from malicious processes,Other
+a8b4ccc6-0b8e-4706-a4c2-392a0b5fb934,Flows from malicious processes,Other
+e7b8c6da-1e50-4d8b-8406-8cdf2b854273,Flows from malicious processes,Other
+78e54516-baf2-4a7a-949b-faef1e80034b,Flows from malicious processes,Other
+b5fe1543-b367-4d0e-bc4e-67283a84e4bb,Flows from malicious processes,Other
+daaa8915-3125-49b7-8768-427585ea4d13,Flows from malicious processes,Other
+caf9a8c0-1417-46ba-b75d-69fe6bd19aa7,Flows from malicious processes,Other
+e22815bc-d344-4d12-b0e8-92164bfc0b32,Flows from malicious processes,Other
+e58b87ed-0515-4a73-9641-07748a5a5a2d,Flows from malicious processes,Other
+cbdc573a-44db-4be1-9db6-4afd5db31c18,Flows from malicious processes,Other
+bfc0c8db-db37-4c5e-bda4-b6305707ba65,Flows from malicious processes,Other
+641a0f24-5ace-499c-909b-b3708998d1bb,Flows from malicious processes,Other
+21a9aaa7-f8b7-4395-9e12-6e8bc94343b2,Flows from malicious processes,Other
+4a548de0-4d2f-48ef-837a-4cacf1247ee0,Flows from malicious processes,Other
+535ad2fc-494c-413f-bf95-1804e18045d8,Flows from malicious processes,Other
+d56175ba-4fe2-480f-9fae-20a6814c4ddc,Flows from malicious processes,Other
+4e230254-70a4-496b-9faf-f8c93cbf81cd,Flows from malicious processes,Other
+dfdd90b5-9472-4d5f-a411-1dc77d2b6459,Flows from malicious processes,Other
+fc850223-f115-47da-b351-56f0d4440266,Flows from malicious processes,Other
+978a93ea-6af4-4cfd-9dca-5f2a6319c6ee,Flows from malicious processes,Other
+283cff4f-4a62-4e85-8695-d10c01a737cc,Flows from malicious processes,Other
+ddc28c79-a455-46f4-a8c2-7c650f7a74c6,Flows from malicious processes,Other
+ac3c269a-514d-48af-b463-fb48fe6076e4,Flows from malicious processes,Other
+f2bd24c5-e1e2-4875-a2e0-06ef5cd591b1,Flows from malicious processes,Other
+601f70b0-8c6a-45c0-b062-72d41aa46d7d,Flows from malicious processes,Other
+f7719539-a41c-4f9d-b254-6888a464de04,Flows from malicious processes,Other
+02356838-4770-4534-a364-2bb98d7864bc,Flows from malicious processes,Other
+ca08adda-c265-45f6-8d0f-0cab2926fc59,Flows from malicious processes,Other
+ca8cbf7f-b7dc-4bfa-8d24-dcf87668ade6,Flows from malicious processes,Other
+b8d86bce-24c9-45da-ae6a-7e624f8ba488,Flows from malicious processes,Other
+d3aa5046-fbbb-44be-8809-e175fc16d219,Flows from malicious processes,Other
+3f49f7eb-9257-4518-a063-a705b4f5cc08,Flows from malicious processes,Other
+322e070f-5587-4e94-800c-e1e2095d4f60,Flows from malicious processes,Other
+6ec426e0-78ff-48c4-baa6-a5d547cab184,Flows from malicious processes,Other
+25ddfc19-0b76-42fe-9406-76fce0887744,Flows from malicious processes,Other
+5cb68eb6-1ad3-4d8c-8f52-758bab19ffbd,Flows from malicious processes,Other
+4deebe40-924d-4ad7-93ce-5efe3ce94c4d,Flows from malicious processes,Lateral movement
+c658b230-1cf4-4038-b8ff-53b3c44a1192,Flows from malicious processes,Lateral movement
+a040ca38-a854-4266-931b-520761e4f36d,Flows from malicious processes,Other
+b8b2ee4c-4539-40bd-8f21-ed15f8b30ea5,Flows from malicious processes,Other
+f67102de-216e-440b-aa17-0fafb6adf8e4,Flows from malicious processes,Other
+d998c0a7-915d-45fc-ab7b-4992995c613f,Flows from malicious processes,Other
+4c0a13fb-546e-4ffe-bfc7-74df2fc486b6,Flows from malicious processes,Other
+91df083e-6365-4fb8-9c00-fb489f376998,Flows from malicious processes,Other
+543fceef-bf26-4f18-9e62-2864a8617781,Flows from malicious processes,Other
+6c4155f0-339f-4fee-a3b4-5b39bddfd75a,Flows from malicious processes,Other
+8b6a5010-2db3-4964-aac2-2c5a264d67b0,Flows from malicious processes,Other
+a645c0d9-bcef-423b-b135-14475193ede2,Flows from malicious processes,Other
+5dea4e92-5ae4-4bd5-8582-c5512dabf444,Flows from malicious processes,Other
+eb481ed7-ea32-48f7-803d-562ed341bc29,Flows from malicious processes,Other
+7d828e75-0d41-4adf-82d3-256344aa56b4,Flows from malicious processes,Other
+432beeaf-31d8-49bf-90d1-600b40e4102a,Flows from malicious processes,Other
+565b8b39-b335-456e-aca7-37e49ef11805,Flows from malicious processes,Other
+a88006b9-e91a-4a04-9c43-06d9b71f07ad,Flows from malicious processes,Other
+85e77267-a47b-48e0-98b7-7d1b528bcb2f,Flows from malicious processes,Other
+2a3539c3-2ef3-40ae-95d0-855983f965ae,Flows from malicious processes,Other
+12496912-f986-487f-995b-b5c8777b8fdb,Flows from malicious processes,Other
+baaa6145-181d-42c0-b324-047a8521fe97,Flows from malicious processes,Other
+f19b4351-8cba-4f53-8219-493236eaa2c4,Flows from malicious processes,Other
+1f86e060-99bc-441a-a95d-21c7f3462c02,Flows from malicious processes,Other
+0b1b035d-75b0-44c4-bb02-07ad24fafcc7,Flows from malicious processes,Other
+4fa4f92a-9abf-438f-b2a1-bd1589cec56a,Flows from malicious processes,Other
+8bcc56fc-730e-4847-a400-073c9f9c8034,Flows from malicious processes,Other
+6eac89a9-3191-4052-9671-dadb8cfba9b6,Flows from malicious processes,Other
+88093eb9-34bf-4b23-90c5-cc21f1bf860b,Flows from malicious processes,Other
+f7230796-6cc6-4e8d-9ece-3bca77cc6ee0,Flows from malicious processes,Other
+2d1a0aeb-1d68-45b3-9204-1ff41af934fa,Flows from malicious processes,Other
+9bc9db5f-e700-49cc-aedb-3f0a9d6a6f13,Flows from malicious processes,Other
+02994da3-d81a-4486-8b10-88464df0383c,Flows from malicious processes,Other
+8c3518ff-c0db-444c-9005-21d45a955a8f,Flows from malicious processes,Other
+a3b8d6c5-d4e3-410b-826d-4102495986ad,Flows from malicious processes,Other
+d35306fa-5de0-4830-a740-11a4baeed06a,Flows from malicious processes,Other
+16d46048-17d7-4ac2-9ec8-28a65ee161cb,Flows from malicious processes,Other
+3b453361-54f3-4abc-aa2e-d6b65195ef29,Flows from malicious processes,Other
+a7129b3d-2c8d-4be6-8f23-66cbb5f2121b,Flows from malicious processes,Other
+f6d972f0-0865-4210-90b4-33cc5e01e626,Flows from malicious processes,Other
+74bb7e01-de26-4b48-abbe-c8fdbf971248,Flows from malicious processes,Other
+24d170fb-bd1f-430b-87f4-e8af54a2221c,Flows from malicious processes,Other
+eca6b543-d682-4659-a73c-e47762b54c28,Flows from malicious processes,Other
+c5d8db05-cae7-4e74-ba28-2e0ee6172e1c,Flows from malicious processes,Other
+ba213ff6-a56b-4ee0-8458-7d27ac20568a,Flows from malicious processes,Other
+e406a5ed-0d6e-40d1-8638-ae8e0ace6ffc,Flows from malicious processes,Other
+7d9b98f3-1569-4095-9f2b-312304b2f592,Flows from malicious processes,Other
+83801919-fad8-448b-8b2a-d1fe4a74988e,Flows from malicious processes,Other
+1b288582-4240-416b-9284-662420c92b9b,Flows from malicious processes,Other
+c056f093-c64d-4882-b264-cc953288f92d,Flows from malicious processes,Other
+16f8af36-7963-478b-bd35-b05fff799ea8,Flows from malicious processes,Other
+aa5a6be9-a3b9-4fc5-8a36-6a50ddf6955a,Flows from malicious processes,Other
+ad6d8c56-0fea-49f2-a977-382836fe5e17,Flows from malicious processes,Other
+623a940b-6dba-415a-80ef-180dcb0a7b25,Flows from malicious processes,Other
+a2972eae-8c0c-4cb9-b99e-b39869f3dccb,Flows from malicious processes,Other
+4217a958-2866-4e7e-918a-f06514f0a8a2,Flows from malicious processes,Other
+c979b8d4-96aa-4b72-b350-18af8852c151,Flows from malicious processes,Other
+7095b168-2c3c-4e8f-b91d-c5b2f18be571,Flows from malicious processes,Other
+c70832a0-8034-47ba-9bf2-624de6f32818,Flows from malicious processes,Other
+94dff266-3562-4c7c-be7b-fc067681f765,Flows from malicious processes,Other
+a72de408-212b-4956-a19b-fbfa74fd8bbf,Flows from malicious processes,Other
+5e131d1b-faad-4f49-be19-2e9ef4662eb3,Flows from malicious processes,Other
+b5350410-2a1d-4c1b-a638-db64e172641d,Flows from malicious processes,Other
+2bcce130-9293-40fa-9763-4ea568d02326,Flows from malicious processes,Other
+f85f2ba3-d63e-47c0-8105-003ec18c3899,Flows from malicious processes,Other
+d8fc60f3-b9a7-42fa-be9e-d54771a8800d,Flows from malicious processes,Other
+3947cd1c-2caa-4114-8514-f097c1dc32cf,Flows from malicious processes,Other
+dec041f2-5645-42d6-a6ce-1f10cc1cec87,Flows from malicious processes,Other
+054c6532-ce89-4b9b-8d60-52dbf2b9c42f,Flows from malicious processes,Other
+5cf29457-516a-4f22-b154-73ea2bd24a5b,Flows from malicious processes,Other
+34ad8ad1-e5c6-4590-b4b7-5b36ae07cc00,Flows from malicious processes,Other
+8db49dc5-2757-49e6-9402-d679a4f27bf1,Flows from malicious processes,Other
+25449967-8cd6-49fc-9bd9-c4f00fa435e1,Flows from malicious processes,Other
+8656be76-0f7c-46eb-bcbf-b126d4df4bed,Flows from malicious processes,Other
+b5ed97f8-159e-4330-a87f-2e0c7c79286b,Flows from malicious processes,Other
+d22e7b85-12d0-427d-bef3-377c9f64502c,Flows from malicious processes,Other
+d1f95ee2-22c4-49ce-a165-0c72b5b0801f,Flows from malicious processes,Other
+5fa6a41f-51e4-4f32-a7f9-068c9f88e186,Flows from malicious processes,Other
+80c8bf37-fe0d-4cc1-91aa-06f90541908b,Flows from malicious processes,Other
+91ed2828-0593-4961-9396-4d22fc4ffb52,Flows from malicious processes,Other
+b20d4462-b250-4c2d-b1a8-852f76faeff4,Flows from malicious processes,Other
+4807f239-d2fe-4101-bf92-22a93fcc9a59,Flows from malicious processes,Other
+070d07e1-367a-4b80-a2f5-f20eb2cd1284,Flows from malicious processes,Other
+94dd9b74-2e0a-42cf-815d-3d2ed2f81f07,Flows from malicious processes,Other
+bc7615fd-3879-4deb-863e-fe89d75c02c7,Flows from malicious processes,Other
+6a7bc3cf-f8b8-4b40-ab4f-4f2b0cd76312,Flows from malicious processes,Other
+fc0f6bc4-1362-4d88-9e0a-e3b9d590baf7,Flows from malicious processes,Other
+eeb808bf-f635-4049-8cc8-598cf7b4db09,Flows from malicious processes,Other
+5a0cf23a-cff9-4d92-b780-f2b988337aa4,Flows from malicious processes,Other
+97c3844a-4fe7-4aef-83d4-186e37683a93,Flows from malicious processes,Other
+95a54272-4b78-4ab0-9ce1-f2bb1c95c13c,Flows from malicious processes,Other
+2a9979da-dd21-40a4-8f74-017bf17b552d,Flows from malicious processes,Other
+258b4731-6423-4844-ad44-b8212b785638,Flows from malicious processes,Other
+c2857593-ed44-430b-b1e4-fc52bf3bb7dd,Flows from malicious processes,Other
+5d616bca-91e1-4958-a27d-8ac3e4b026a7,Flows from malicious processes,Other
+55f64fa3-8117-45fb-b2b7-1f9e5200a8e6,Flows from malicious processes,Other
+27ff8137-3ffe-4997-adb9-e759d700ea59,Flows from malicious processes,Other
+3061bba7-a383-47cc-8ad2-68e7a0000ec6,Flows from malicious processes,Other
+624def92-3493-442c-bbca-5f0bb271e303,Flows from malicious processes,Other
+219a5b2e-908a-497d-8f64-ee63d373ff1e,Flows from malicious processes,Other
+22eac52c-9acb-4cbd-9b4f-cce9568e992a,Flows from malicious processes,Other
+fd34144a-6452-436e-beeb-0b4be297950b,Flows from malicious processes,Other
+a7eaa7a8-66c8-4167-b316-6a669cf10820,Flows from malicious processes,Other
+8745b60b-14ba-4456-a49d-edb0deedeaf9,Flows from malicious processes,Other
+9f05d65e-dfd6-43f9-af50-a576716392bd,Flows from malicious processes,Other
+fe466732-feae-413b-bbe3-d1f56a12bcba,Flows from malicious processes,Other
+723b34a8-9a40-4808-873d-717c1d1a143d,Flows from malicious processes,Other
+a2065a6b-0ace-4294-8f67-96eaf700aa14,Flows from malicious processes,Other
+82dd2191-e220-4e10-bc24-9002d89f59c3,Flows from malicious processes,Other
+94ce85ad-c5c6-4226-a3cc-ec90b75fa152,Flows from malicious processes,Other
+4742b44f-2eb9-44e5-85ef-b503b4a5b0d3,Flows from malicious processes,Other
+b8ed9434-9d53-4e67-9881-448269eb9d6b,Flows from malicious processes,Other
+c703200e-9fbf-4cc4-966b-99287b610cc0,Flows from malicious processes,Other
+960082b6-d4c7-4d17-b99b-269d1644937b,Flows from malicious processes,Other
+57162832-2d55-40b5-9da3-1f8e347c6e12,Flows from malicious processes,Other
+88a11424-3dd7-4658-965f-d90da2ee198f,Flows from malicious processes,Other
+cb93237d-b165-4e24-ac1f-751be99eb4a1,Flows from malicious processes,Other
+94d43cea-02b8-41fb-9847-6a7596f58a0c,Flows from malicious processes,Other
+d22ba268-75b8-4d9e-a099-896d97ff8e06,Flows from malicious processes,Other
+de746e4c-15e4-4a26-9e1c-02e645ad5934,Flows from malicious processes,Other
+eaf0fbcc-1673-43c8-a91c-a80c2be759cf,Flows from malicious processes,Other
+4f7ce6fd-ed28-4391-bf3c-f55bd9dc1af5,Flows from malicious processes,Other
+c218bd8a-f462-4a8d-a1ac-a87036eae44f,Flows from malicious processes,Other
+454f46c7-faef-4bb0-b5e7-c6bef8e34a83,Flows from malicious processes,Other
+f66683fc-4a27-4a47-84be-02cd4def91be,Flows from malicious processes,Other
