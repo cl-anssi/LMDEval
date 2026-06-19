@@ -15,6 +15,8 @@ movement detectors :
 
 ### Usage
 
+Download the raw datasets: [LANL](https://csr.lanl.gov/data/cyber1/) and
+[OpTC](https://github.com/FiveDirections/OpTC-data).
 Run `pip install -r requirements.txt` to install necessary dependencies.
 Run `python extract_lanl.py -h` or `python extract_optc.py -h` to see the available
 options.
